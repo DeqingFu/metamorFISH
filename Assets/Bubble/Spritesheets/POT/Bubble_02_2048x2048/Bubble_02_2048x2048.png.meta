@@ -1,0 +1,2128 @@
+fileFormatVersion: 2
+guid: 56a43891d7096154980be7ee12c2f78c
+timeCreated: 1461735917
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BubbleLoop1_00000
+    21300002: BubbleLoop1_00001
+    21300004: BubbleLoop1_00002
+    21300006: BubbleLoop1_00003
+    21300008: BubbleLoop1_00004
+    21300010: BubbleLoop1_00005
+    21300012: BubbleLoop1_00006
+    21300014: BubbleLoop1_00007
+    21300016: BubbleLoop1_00008
+    21300018: BubbleLoop1_00009
+    21300020: BubbleLoop1_00010
+    21300022: BubbleLoop1_00011
+    21300024: BubbleLoop1_00012
+    21300026: BubbleLoop1_00013
+    21300028: BubbleLoop1_00014
+    21300030: BubbleLoop1_00015
+    21300032: BubbleLoop1_00016
+    21300034: BubbleLoop1_00017
+    21300036: BubbleLoop1_00018
+    21300038: BubbleLoop1_00019
+    21300040: BubbleLoop1_00020
+    21300042: BubbleLoop1_00021
+    21300044: BubbleLoop1_00022
+    21300046: BubbleLoop1_00023
+    21300048: BubbleLoop1_00024
+    21300050: BubbleLoop1_00025
+    21300052: BubbleLoop1_00026
+    21300054: BubbleLoop1_00027
+    21300056: BubbleLoop1_00028
+    21300058: BubbleLoop1_00029
+    21300060: BubbleLoop2_00000
+    21300062: BubbleLoop2_00001
+    21300064: BubbleLoop2_00002
+    21300066: BubbleLoop2_00003
+    21300068: BubbleLoop2_00004
+    21300070: BubbleLoop2_00005
+    21300072: BubbleLoop2_00006
+    21300074: BubbleLoop2_00007
+    21300076: BubbleLoop2_00008
+    21300078: BubbleLoop2_00009
+    21300080: BubbleLoop2_00010
+    21300082: BubbleLoop2_00011
+    21300084: BubbleLoop2_00012
+    21300086: BubbleLoop2_00013
+    21300088: BubbleLoop2_00014
+    21300090: BubbleLoop2_00015
+    21300092: BubbleLoop2_00016
+    21300094: BubbleLoop2_00017
+    21300096: BubbleLoop2_00018
+    21300098: BubbleLoop2_00019
+    21300100: BubbleLoop2_00020
+    21300102: BubbleLoop2_00021
+    21300104: BubbleLoop2_00022
+    21300106: BubbleLoop2_00023
+    21300108: BubbleLoop2_00024
+    21300110: BubbleLoop2_00025
+    21300112: BubbleLoop2_00026
+    21300114: BubbleLoop2_00027
+    21300116: BubbleLoop2_00028
+    21300118: BubbleLoop2_00029
+    21300120: BubbleLoop3_00000
+    21300122: BubbleLoop3_00001
+    21300124: BubbleLoop3_00002
+    21300126: BubbleLoop3_00003
+    21300128: BubbleLoop3_00004
+    21300130: BubbleLoop3_00005
+    21300132: BubbleLoop3_00006
+    21300134: BubbleLoop3_00007
+    21300136: BubbleLoop3_00008
+    21300138: BubbleLoop3_00009
+    21300140: BubbleLoop3_00010
+    21300142: BubbleLoop3_00011
+    21300144: BubbleLoop3_00012
+    21300146: BubbleLoop3_00013
+    21300148: BubbleLoop3_00014
+    21300150: BubbleLoop3_00015
+    21300152: BubbleLoop3_00016
+    21300154: BubbleLoop3_00017
+    21300156: BubbleLoop3_00018
+    21300158: BubbleLoop3_00019
+    21300160: BubbleLoop3_00020
+    21300162: BubbleLoop3_00021
+    21300164: BubbleLoop3_00022
+    21300166: BubbleLoop3_00023
+    21300168: BubbleLoop3_00024
+    21300170: BubbleLoop3_00025
+    21300172: BubbleLoop3_00026
+    21300174: BubbleLoop3_00027
+    21300176: BubbleLoop3_00028
+    21300178: BubbleLoop3_00029
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BubbleLoop1_00000
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 1638
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 89}
+        - {x: 47, y: 96}
+        - {x: -38, y: 96}
+        - {x: -61, y: 91}
+        - {x: -89, y: 51}
+        - {x: -96, y: 40}
+        - {x: -96, y: -33}
+        - {x: -91, y: -58}
+        - {x: -70, y: -78}
+        - {x: -33, y: -96}
+        - {x: 36, y: -96}
+        - {x: 94, y: -64}
+        - {x: 96, y: -53}
+        - {x: 96, y: 45}
+    - name: BubbleLoop1_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 768
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 38}
+        - {x: 92, y: 57}
+        - {x: 39, y: 96}
+        - {x: -42, y: 96}
+        - {x: -96, y: 67}
+        - {x: -96, y: -43}
+        - {x: -82, y: -65}
+        - {x: -39, y: -96}
+        - {x: 39, y: -96}
+        - {x: 54, y: -86}
+        - {x: 84, y: -59}
+        - {x: 96, y: -40}
+    - name: BubbleLoop1_00002
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1424
+        width: 192
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 44}
+        - {x: 82, y: 69}
+        - {x: 39, y: 95}
+        - {x: -57, y: 95}
+        - {x: -96, y: 41}
+        - {x: -96, y: -38}
+        - {x: -64, y: -87}
+        - {x: -36, y: -95}
+        - {x: 31, y: -95}
+        - {x: 68, y: -79}
+        - {x: 89, y: -62}
+        - {x: 96, y: -33}
+    - name: BubbleLoop1_00003
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 133
+        width: 192
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 42}
+        - {x: 70, y: 80}
+        - {x: 44, y: 93}
+        - {x: -47, y: 93}
+        - {x: -96, y: 63}
+        - {x: -96, y: -63}
+        - {x: -56, y: -90}
+        - {x: -35, y: -93}
+        - {x: 36, y: -93}
+        - {x: 54, y: -83}
+        - {x: 88, y: -59}
+        - {x: 96, y: -37}
+    - name: BubbleLoop1_00004
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 152
+        width: 190
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 91}
+        - {x: -39, y: 91}
+        - {x: -88, y: 57}
+        - {x: -95, y: 35}
+        - {x: -95, y: -36}
+        - {x: -65, y: -75}
+        - {x: -50, y: -91}
+        - {x: 66, y: -91}
+        - {x: 95, y: -52}
+        - {x: 95, y: 39}
+        - {x: 88, y: 69}
+    - name: BubbleLoop1_00005
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 1674
+        width: 190
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50282484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 88}
+        - {x: -54, y: 88}
+        - {x: -81, y: 77}
+        - {x: -95, y: 37}
+        - {x: -95, y: -39}
+        - {x: -64, y: -70}
+        - {x: -37, y: -89}
+        - {x: 39, y: -89}
+        - {x: 95, y: -54}
+        - {x: 95, y: 36}
+        - {x: 68, y: 81}
+    - name: BubbleLoop1_00006
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1463
+        width: 188
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: 43}
+        - {x: 50, y: 86}
+        - {x: -48, y: 86}
+        - {x: -94, y: 50}
+        - {x: -94, y: -42}
+        - {x: -77, y: -86}
+        - {x: 46, y: -86}
+        - {x: 58, y: -84}
+        - {x: 88, y: -58}
+        - {x: 94, y: -32}
+    - name: BubbleLoop1_00007
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1226
+        width: 188
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5029586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 84}
+        - {x: -46, y: 84}
+        - {x: -83, y: 75}
+        - {x: -94, y: 52}
+        - {x: -94, y: -42}
+        - {x: -91, y: -61}
+        - {x: -40, y: -85}
+        - {x: 55, y: -85}
+        - {x: 94, y: -37}
+        - {x: 94, y: 31}
+        - {x: 61, y: 74}
+    - name: BubbleLoop1_00008
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 645
+        width: 187
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5026738, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 82}
+        - {x: 52, y: 83}
+        - {x: -60, y: 83}
+        - {x: -92, y: 46}
+        - {x: -94, y: 38}
+        - {x: -94, y: -29}
+        - {x: -69, y: -74}
+        - {x: -53, y: -83}
+        - {x: 43, y: -83}
+        - {x: 78, y: -75}
+        - {x: 93, y: -45}
+        - {x: 93, y: 25}
+        - {x: 84, y: 53}
+    - name: BubbleLoop1_00009
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 835
+        width: 187
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5026738, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 83}
+        - {x: -45, y: 83}
+        - {x: -73, y: 64}
+        - {x: -94, y: 31}
+        - {x: -94, y: -33}
+        - {x: -74, y: -74}
+        - {x: -34, y: -83}
+        - {x: 64, y: -83}
+        - {x: 73, y: -80}
+        - {x: 93, y: -36}
+        - {x: 93, y: 47}
+    - name: BubbleLoop1_00010
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 57
+        width: 186
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 43, y: 83}
+        - {x: -46, y: 83}
+        - {x: -93, y: 57}
+        - {x: -93, y: -41}
+        - {x: -72, y: -71}
+        - {x: -33, y: -83}
+        - {x: 50, y: -83}
+        - {x: 93, y: -57}
+        - {x: 93, y: 31}
+        - {x: 85, y: 45}
+    - name: BubbleLoop1_00011
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 834
+        width: 185
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5027027, y: 0.502994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: 83}
+        - {x: -93, y: 42}
+        - {x: -93, y: -30}
+        - {x: -68, y: -67}
+        - {x: -30, y: -84}
+        - {x: 47, y: -84}
+        - {x: 92, y: -64}
+        - {x: 92, y: 51}
+        - {x: 58, y: 83}
+    - name: BubbleLoop1_00012
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 780
+        width: 183
+        height: 168
+      alignment: 9
+      pivot: {x: 0.5027322, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 84}
+        - {x: -51, y: 84}
+        - {x: -72, y: 80}
+        - {x: -92, y: 36}
+        - {x: -92, y: -26}
+        - {x: -79, y: -54}
+        - {x: -39, y: -84}
+        - {x: 54, y: -84}
+        - {x: 91, y: -40}
+        - {x: 91, y: 38}
+        - {x: 86, y: 56}
+    - name: BubbleLoop1_00013
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 247
+        width: 181
+        height: 171
+      alignment: 9
+      pivot: {x: 0.50276244, y: 0.50292397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: 85}
+        - {x: -48, y: 85}
+        - {x: -84, y: 63}
+        - {x: -91, y: 32}
+        - {x: -91, y: -45}
+        - {x: -89, y: -51}
+        - {x: -40, y: -86}
+        - {x: 40, y: -86}
+        - {x: 88, y: -56}
+        - {x: 90, y: -41}
+        - {x: 90, y: 37}
+    - name: BubbleLoop1_00014
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 846
+        width: 179
+        height: 173
+      alignment: 9
+      pivot: {x: 0.5027933, y: 0.50289017}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86, y: 52}
+        - {x: 38, y: 86}
+        - {x: -37, y: 86}
+        - {x: -82, y: 59}
+        - {x: -90, y: 50}
+        - {x: -90, y: -42}
+        - {x: -73, y: -87}
+        - {x: 38, y: -87}
+        - {x: 78, y: -62}
+        - {x: 89, y: -35}
+        - {x: 89, y: 30}
+    - name: BubbleLoop1_00015
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 1025
+        width: 177
+        height: 176
+      alignment: 9
+      pivot: {x: 0.50282484, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: 79}
+        - {x: 32, y: 88}
+        - {x: -61, y: 88}
+        - {x: -89, y: 60}
+        - {x: -89, y: -45}
+        - {x: -75, y: -88}
+        - {x: 37, y: -88}
+        - {x: 80, y: -60}
+        - {x: 88, y: -38}
+        - {x: 88, y: 38}
+    - name: BubbleLoop1_00016
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 442
+        width: 174
+        height: 179
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5027933}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 89}
+        - {x: -36, y: 89}
+        - {x: -56, y: 78}
+        - {x: -87, y: 42}
+        - {x: -87, y: -47}
+        - {x: -50, y: -90}
+        - {x: 47, y: -90}
+        - {x: 87, y: -77}
+        - {x: 87, y: 60}
+        - {x: 57, y: 85}
+    - name: BubbleLoop1_00017
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1225
+        width: 172
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 91}
+        - {x: -86, y: 56}
+        - {x: -86, y: -36}
+        - {x: -73, y: -61}
+        - {x: -35, y: -91}
+        - {x: 40, y: -91}
+        - {x: 86, y: -46}
+        - {x: 86, y: 38}
+        - {x: 53, y: 91}
+    - name: BubbleLoop1_00018
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 972
+        width: 170
+        height: 185
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5027027}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 88}
+        - {x: 40, y: 92}
+        - {x: -43, y: 92}
+        - {x: -76, y: 75}
+        - {x: -85, y: 34}
+        - {x: -85, y: -54}
+        - {x: -60, y: -87}
+        - {x: -32, y: -93}
+        - {x: 33, y: -93}
+        - {x: 56, y: -82}
+        - {x: 85, y: -35}
+        - {x: 85, y: 38}
+    - name: BubbleLoop1_00019
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1056
+        width: 168
+        height: 188
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 57, y: 76}
+        - {x: 37, y: 94}
+        - {x: -44, y: 94}
+        - {x: -84, y: 46}
+        - {x: -84, y: -69}
+        - {x: -51, y: -94}
+        - {x: 36, y: -94}
+        - {x: 84, y: -72}
+        - {x: 84, y: 37}
+        - {x: 82, y: 52}
+    - name: BubbleLoop1_00020
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 1249
+        width: 168
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: 93}
+        - {x: 50, y: 95}
+        - {x: -65, y: 95}
+        - {x: -84, y: 47}
+        - {x: -84, y: -75}
+        - {x: -41, y: -95}
+        - {x: 46, y: -95}
+        - {x: 47, y: -93}
+        - {x: 84, y: -41}
+        - {x: 84, y: 40}
+    - name: BubbleLoop1_00021
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1419
+        width: 168
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: 96}
+        - {x: -55, y: 96}
+        - {x: -84, y: 54}
+        - {x: -84, y: -40}
+        - {x: -74, y: -74}
+        - {x: -38, y: -96}
+        - {x: 28, y: -96}
+        - {x: 55, y: -90}
+        - {x: 79, y: -57}
+        - {x: 84, y: -33}
+        - {x: 84, y: 46}
+    - name: BubbleLoop1_00022
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1635
+        width: 170
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34, y: 97}
+        - {x: -46, y: 93}
+        - {x: -85, y: 46}
+        - {x: -85, y: -46}
+        - {x: -67, y: -69}
+        - {x: -33, y: -97}
+        - {x: 31, y: -97}
+        - {x: 51, y: -93}
+        - {x: 85, y: -57}
+        - {x: 85, y: 67}
+        - {x: 43, y: 97}
+    - name: BubbleLoop1_00023
+      rect:
+        serializedVersion: 2
+        x: 1310
+        y: 1853
+        width: 172
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 97}
+        - {x: -33, y: 97}
+        - {x: -57, y: 90}
+        - {x: -86, y: 42}
+        - {x: -86, y: -40}
+        - {x: -56, y: -89}
+        - {x: -40, y: -97}
+        - {x: 27, y: -97}
+        - {x: 45, y: -94}
+        - {x: 78, y: -51}
+        - {x: 86, y: -31}
+        - {x: 86, y: 55}
+    - name: BubbleLoop1_00024
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 132
+        width: 174
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50256413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 97}
+        - {x: -87, y: 51}
+        - {x: -87, y: -34}
+        - {x: -70, y: -68}
+        - {x: -49, y: -86}
+        - {x: -27, y: -98}
+        - {x: 36, y: -98}
+        - {x: 87, y: -60}
+        - {x: 87, y: 52}
+        - {x: 49, y: 97}
+    - name: BubbleLoop1_00025
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 992
+        width: 178
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50256413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 86}
+        - {x: 38, y: 97}
+        - {x: -27, y: 97}
+        - {x: -53, y: 92}
+        - {x: -89, y: 55}
+        - {x: -89, y: -54}
+        - {x: -56, y: -95}
+        - {x: -36, y: -98}
+        - {x: 43, y: -98}
+        - {x: 56, y: -93}
+        - {x: 89, y: -44}
+        - {x: 89, y: 40}
+    - name: BubbleLoop1_00026
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 779
+        width: 182
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 97}
+        - {x: -45, y: 97}
+        - {x: -91, y: 52}
+        - {x: -91, y: -59}
+        - {x: -46, y: -97}
+        - {x: 46, y: -97}
+        - {x: 61, y: -92}
+        - {x: 91, y: -44}
+        - {x: 91, y: 39}
+        - {x: 77, y: 68}
+    - name: BubbleLoop1_00027
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 561
+        width: 186
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 86}
+        - {x: 33, y: 97}
+        - {x: -38, y: 97}
+        - {x: -77, y: 66}
+        - {x: -93, y: 36}
+        - {x: -93, y: -35}
+        - {x: -77, y: -71}
+        - {x: -38, y: -97}
+        - {x: 40, y: -97}
+        - {x: 47, y: -96}
+        - {x: 91, y: -58}
+        - {x: 93, y: -44}
+        - {x: 93, y: 46}
+    - name: BubbleLoop1_00028
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 333
+        width: 190
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91, y: 59}
+        - {x: 40, y: 97}
+        - {x: -37, y: 97}
+        - {x: -79, y: 65}
+        - {x: -95, y: 35}
+        - {x: -95, y: -34}
+        - {x: -84, y: -65}
+        - {x: -42, y: -97}
+        - {x: 33, y: -97}
+        - {x: 51, y: -93}
+        - {x: 77, y: -70}
+        - {x: 95, y: -38}
+        - {x: 95, y: 38}
+    - name: BubbleLoop1_00029
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1202
+        width: 192
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 36}
+        - {x: 68, y: 84}
+        - {x: 44, y: 97}
+        - {x: -32, y: 97}
+        - {x: -72, y: 87}
+        - {x: -96, y: 40}
+        - {x: -96, y: -42}
+        - {x: -57, y: -97}
+        - {x: 34, y: -97}
+        - {x: 39, y: -96}
+        - {x: 72, y: -73}
+        - {x: 96, y: -39}
+    - name: BubbleLoop2_00000
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1854
+        width: 193
+        height: 193
+      alignment: 9
+      pivot: {x: 0.50259066, y: 0.4974093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: 41}
+        - {x: 79, y: 71}
+        - {x: 40, y: 97}
+        - {x: -34, y: 97}
+        - {x: -71, y: 78}
+        - {x: -97, y: 38}
+        - {x: -97, y: -57}
+        - {x: -43, y: -96}
+        - {x: 35, y: -96}
+        - {x: 72, y: -78}
+        - {x: 96, y: -42}
+        - {x: 96, y: 32}
+    - name: BubbleLoop2_00001
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1853
+        width: 193
+        height: 194
+      alignment: 9
+      pivot: {x: 0.50259066, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 86}
+        - {x: 42, y: 97}
+        - {x: -55, y: 97}
+        - {x: -66, y: 95}
+        - {x: -97, y: 36}
+        - {x: -97, y: -40}
+        - {x: -59, y: -87}
+        - {x: -30, y: -97}
+        - {x: 39, y: -97}
+        - {x: 80, y: -66}
+        - {x: 96, y: -32}
+        - {x: 96, y: 40}
+    - name: BubbleLoop2_00002
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 984
+        width: 191
+        height: 194
+      alignment: 9
+      pivot: {x: 0.4973822, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90, y: 62}
+        - {x: 38, y: 97}
+        - {x: -31, y: 97}
+        - {x: -66, y: 82}
+        - {x: -95, y: 37}
+        - {x: -95, y: -31}
+        - {x: -84, y: -69}
+        - {x: -46, y: -97}
+        - {x: 32, y: -97}
+        - {x: 70, y: -86}
+        - {x: 93, y: -51}
+        - {x: 96, y: -35}
+        - {x: 96, y: 48}
+    - name: BubbleLoop2_00003
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 115
+        width: 189
+        height: 194
+      alignment: 9
+      pivot: {x: 0.4973545, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 81}
+        - {x: 28, y: 97}
+        - {x: -31, y: 97}
+        - {x: -88, y: 70}
+        - {x: -94, y: 40}
+        - {x: -94, y: -40}
+        - {x: -85, y: -53}
+        - {x: -59, y: -92}
+        - {x: -28, y: -97}
+        - {x: 40, y: -97}
+        - {x: 62, y: -84}
+        - {x: 95, y: -47}
+        - {x: 95, y: 47}
+    - name: BubbleLoop2_00004
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 343
+        width: 185
+        height: 194
+      alignment: 9
+      pivot: {x: 0.4972973, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 82}
+        - {x: 31, y: 97}
+        - {x: -32, y: 97}
+        - {x: -66, y: 81}
+        - {x: -92, y: 37}
+        - {x: -92, y: -45}
+        - {x: -89, y: -63}
+        - {x: -41, y: -97}
+        - {x: 33, y: -97}
+        - {x: 61, y: -85}
+        - {x: 93, y: -40}
+        - {x: 93, y: 40}
+    - name: BubbleLoop2_00005
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 997
+        width: 182
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 92}
+        - {x: 38, y: 97}
+        - {x: -46, y: 97}
+        - {x: -77, y: 66}
+        - {x: -91, y: 29}
+        - {x: -91, y: -31}
+        - {x: -71, y: -76}
+        - {x: -39, y: -97}
+        - {x: 37, y: -97}
+        - {x: 45, y: -96}
+        - {x: 88, y: -65}
+        - {x: 91, y: -43}
+        - {x: 91, y: 51}
+    - name: BubbleLoop2_00006
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1211
+        width: 178
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 98}
+        - {x: -42, y: 98}
+        - {x: -76, y: 63}
+        - {x: -89, y: 41}
+        - {x: -89, y: -36}
+        - {x: -79, y: -70}
+        - {x: -36, y: -98}
+        - {x: 49, y: -98}
+        - {x: 89, y: -37}
+        - {x: 89, y: 42}
+        - {x: 55, y: 90}
+    - name: BubbleLoop2_00007
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1655
+        width: 172
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: 84}
+        - {x: 33, y: 98}
+        - {x: -44, y: 98}
+        - {x: -56, y: 86}
+        - {x: -86, y: 50}
+        - {x: -86, y: -48}
+        - {x: -69, y: -72}
+        - {x: -32, y: -98}
+        - {x: 72, y: -98}
+        - {x: 86, y: -50}
+        - {x: 86, y: 62}
+    - name: BubbleLoop2_00008
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1850
+        width: 168
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 98}
+        - {x: -53, y: 98}
+        - {x: -77, y: 82}
+        - {x: -84, y: 49}
+        - {x: -84, y: -49}
+        - {x: -68, y: -74}
+        - {x: -49, y: -99}
+        - {x: 47, y: -99}
+        - {x: 62, y: -97}
+        - {x: 84, y: -54}
+        - {x: 84, y: 65}
+        - {x: 69, y: 91}
+    - name: BubbleLoop2_00009
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 1627
+        width: 164
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5050505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 98}
+        - {x: -52, y: 84}
+        - {x: -82, y: 40}
+        - {x: -82, y: -47}
+        - {x: -46, y: -100}
+        - {x: 43, y: -100}
+        - {x: 82, y: -51}
+        - {x: 82, y: 46}
+        - {x: 61, y: 98}
+    - name: BubbleLoop2_00010
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1404
+        width: 159
+        height: 199
+      alignment: 9
+      pivot: {x: 0.49685535, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 99}
+        - {x: -28, y: 99}
+        - {x: -72, y: 79}
+        - {x: -79, y: 59}
+        - {x: -79, y: -44}
+        - {x: -71, y: -80}
+        - {x: -40, y: -100}
+        - {x: 24, y: -100}
+        - {x: 48, y: -96}
+        - {x: 80, y: -43}
+        - {x: 80, y: 48}
+        - {x: 74, y: 68}
+    - name: BubbleLoop2_00011
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1848
+        width: 156
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: 99}
+        - {x: -33, y: 99}
+        - {x: -78, y: 58}
+        - {x: -78, y: -44}
+        - {x: -64, y: -69}
+        - {x: -42, y: -99}
+        - {x: -36, y: -100}
+        - {x: 30, y: -100}
+        - {x: 71, y: -62}
+        - {x: 78, y: -29}
+        - {x: 78, y: 48}
+    - name: BubbleLoop2_00012
+      rect:
+        serializedVersion: 2
+        x: 1094
+        y: 833
+        width: 152
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: 99}
+        - {x: -59, y: 72}
+        - {x: -76, y: 39}
+        - {x: -76, y: -62}
+        - {x: -48, y: -100}
+        - {x: 29, y: -100}
+        - {x: 67, y: -88}
+        - {x: 76, y: -49}
+        - {x: 76, y: 58}
+        - {x: 54, y: 99}
+    - name: BubbleLoop2_00013
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 622
+        width: 150
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -52, y: 100}
+        - {x: -75, y: 67}
+        - {x: -75, y: -77}
+        - {x: -35, y: -100}
+        - {x: 24, y: -100}
+        - {x: 40, y: -95}
+        - {x: 75, y: -50}
+        - {x: 75, y: 59}
+        - {x: 56, y: 100}
+    - name: BubbleLoop2_00014
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 1176
+        width: 148
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 100}
+        - {x: -74, y: 40}
+        - {x: -74, y: -52}
+        - {x: -50, y: -100}
+        - {x: 32, y: -100}
+        - {x: 74, y: -59}
+        - {x: 74, y: 65}
+        - {x: 46, y: 100}
+    - name: BubbleLoop2_00015
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 421
+        width: 147
+        height: 200
+      alignment: 9
+      pivot: {x: 0.49659863, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 100}
+        - {x: -31, y: 100}
+        - {x: -36, y: 97}
+        - {x: -73, y: 45}
+        - {x: -73, y: -52}
+        - {x: -50, y: -100}
+        - {x: 49, y: -100}
+        - {x: 65, y: -65}
+        - {x: 74, y: -44}
+        - {x: 74, y: 64}
+    - name: BubbleLoop2_00016
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 556
+        width: 148
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 100}
+        - {x: -36, y: 100}
+        - {x: -74, y: 45}
+        - {x: -74, y: -50}
+        - {x: -50, y: -100}
+        - {x: 24, y: -100}
+        - {x: 74, y: -64}
+        - {x: 74, y: 66}
+    - name: BubbleLoop2_00017
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 1400
+        width: 149
+        height: 200
+      alignment: 9
+      pivot: {x: 0.4966443, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74, y: 69}
+        - {x: 32, y: 100}
+        - {x: -25, y: 100}
+        - {x: -73, y: 67}
+        - {x: -74, y: 60}
+        - {x: -74, y: -94}
+        - {x: -54, y: -100}
+        - {x: 46, y: -100}
+        - {x: 67, y: -81}
+        - {x: 75, y: -35}
+        - {x: 75, y: 65}
+    - name: BubbleLoop2_00018
+      rect:
+        serializedVersion: 2
+        x: 1883
+        y: 1624
+        width: 152
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 100}
+        - {x: -49, y: 100}
+        - {x: -76, y: 42}
+        - {x: -76, y: -49}
+        - {x: -48, y: -100}
+        - {x: 20, y: -100}
+        - {x: 40, y: -92}
+        - {x: 76, y: -54}
+        - {x: 76, y: 67}
+    - name: BubbleLoop2_00019
+      rect:
+        serializedVersion: 2
+        x: 1503
+        y: 1025
+        width: 155
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5032258, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 100}
+        - {x: -40, y: 100}
+        - {x: -78, y: 45}
+        - {x: -78, y: -54}
+        - {x: -75, y: -66}
+        - {x: -41, y: -97}
+        - {x: -32, y: -100}
+        - {x: 25, y: -100}
+        - {x: 66, y: -73}
+        - {x: 77, y: -53}
+        - {x: 77, y: 64}
+    - name: BubbleLoop2_00020
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 1181
+        width: 158
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49748743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 100}
+        - {x: -36, y: 100}
+        - {x: -40, y: 96}
+        - {x: -79, y: 45}
+        - {x: -79, y: -47}
+        - {x: -51, y: -99}
+        - {x: 28, y: -99}
+        - {x: 67, y: -72}
+        - {x: 79, y: -37}
+        - {x: 79, y: 81}
+    - name: BubbleLoop2_00021
+      rect:
+        serializedVersion: 2
+        x: 1091
+        y: 1452
+        width: 163
+        height: 198
+      alignment: 9
+      pivot: {x: 0.4969325, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77, y: 59}
+        - {x: 39, y: 99}
+        - {x: -38, y: 99}
+        - {x: -81, y: 52}
+        - {x: -81, y: -59}
+        - {x: -52, y: -98}
+        - {x: -44, y: -99}
+        - {x: 45, y: -99}
+        - {x: 67, y: -82}
+        - {x: 82, y: -36}
+        - {x: 82, y: 50}
+    - name: BubbleLoop2_00022
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1849
+        width: 168
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 99}
+        - {x: -32, y: 99}
+        - {x: -74, y: 78}
+        - {x: -84, y: 37}
+        - {x: -84, y: -53}
+        - {x: -79, y: -66}
+        - {x: -35, y: -99}
+        - {x: 35, y: -99}
+        - {x: 39, y: -98}
+        - {x: 66, y: -68}
+        - {x: 84, y: -40}
+        - {x: 84, y: 54}
+    - name: BubbleLoop2_00023
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 351
+        width: 172
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84, y: 67}
+        - {x: 37, y: 98}
+        - {x: -29, y: 98}
+        - {x: -72, y: 73}
+        - {x: -86, y: 34}
+        - {x: -86, y: -44}
+        - {x: -73, y: -81}
+        - {x: -32, y: -99}
+        - {x: 39, y: -99}
+        - {x: 73, y: -74}
+        - {x: 86, y: -50}
+        - {x: 86, y: 53}
+    - name: BubbleLoop2_00024
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 772
+        width: 176
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 98}
+        - {x: -31, y: 98}
+        - {x: -51, y: 92}
+        - {x: -70, y: 74}
+        - {x: -88, y: 40}
+        - {x: -88, y: -36}
+        - {x: -84, y: -57}
+        - {x: -57, y: -97}
+        - {x: -50, y: -98}
+        - {x: 46, y: -98}
+        - {x: 61, y: -86}
+        - {x: 88, y: -41}
+        - {x: 88, y: 57}
+    - name: BubbleLoop2_00025
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 560
+        width: 181
+        height: 195
+      alignment: 9
+      pivot: {x: 0.50276244, y: 0.4974359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: 69}
+        - {x: 45, y: 90}
+        - {x: 40, y: 98}
+        - {x: -44, y: 98}
+        - {x: -87, y: 86}
+        - {x: -91, y: 67}
+        - {x: -91, y: -38}
+        - {x: -89, y: -56}
+        - {x: -59, y: -97}
+        - {x: 58, y: -97}
+        - {x: 86, y: -62}
+        - {x: 90, y: -39}
+        - {x: 90, y: 45}
+    - name: BubbleLoop2_00026
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1201
+        width: 186
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4974359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 98}
+        - {x: -36, y: 98}
+        - {x: -72, y: 76}
+        - {x: -93, y: 32}
+        - {x: -93, y: -42}
+        - {x: -66, y: -97}
+        - {x: 52, y: -97}
+        - {x: 74, y: -73}
+        - {x: 93, y: -34}
+        - {x: 93, y: 50}
+    - name: BubbleLoop2_00027
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1421
+        width: 188
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 64, y: 82}
+        - {x: 40, y: 97}
+        - {x: -31, y: 97}
+        - {x: -61, y: 91}
+        - {x: -92, y: 53}
+        - {x: -94, y: 44}
+        - {x: -94, y: -46}
+        - {x: -52, y: -97}
+        - {x: 39, y: -97}
+        - {x: 70, y: -82}
+        - {x: 94, y: -39}
+        - {x: 94, y: 38}
+    - name: BubbleLoop2_00028
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 551
+        width: 191
+        height: 193
+      alignment: 9
+      pivot: {x: 0.4973822, y: 0.50259066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91, y: 50}
+        - {x: 61, y: 94}
+        - {x: 44, y: 96}
+        - {x: -47, y: 96}
+        - {x: -69, y: 87}
+        - {x: -95, y: 38}
+        - {x: -95, y: -37}
+        - {x: -69, y: -79}
+        - {x: -48, y: -97}
+        - {x: 42, y: -97}
+        - {x: 89, y: -67}
+        - {x: 96, y: -38}
+        - {x: 96, y: 42}
+    - name: BubbleLoop2_00029
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1420
+        width: 193
+        height: 193
+      alignment: 9
+      pivot: {x: 0.4974093, y: 0.50259066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: 86}
+        - {x: 51, y: 96}
+        - {x: -37, y: 96}
+        - {x: -77, y: 86}
+        - {x: -96, y: 45}
+        - {x: -96, y: -46}
+        - {x: -76, y: -66}
+        - {x: -44, y: -95}
+        - {x: -28, y: -97}
+        - {x: 59, y: -97}
+        - {x: 97, y: -47}
+        - {x: 97, y: 36}
+    - name: BubbleLoop3_00000
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1854
+        width: 193
+        height: 193
+      alignment: 9
+      pivot: {x: 0.50259066, y: 0.4974093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: 41}
+        - {x: 79, y: 71}
+        - {x: 40, y: 97}
+        - {x: -34, y: 97}
+        - {x: -71, y: 78}
+        - {x: -97, y: 38}
+        - {x: -97, y: -57}
+        - {x: -43, y: -96}
+        - {x: 35, y: -96}
+        - {x: 72, y: -78}
+        - {x: 96, y: -42}
+        - {x: 96, y: 32}
+    - name: BubbleLoop3_00001
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1854
+        width: 194
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4974093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 61, y: 87}
+        - {x: 40, y: 97}
+        - {x: -62, y: 97}
+        - {x: -97, y: 37}
+        - {x: -97, y: -41}
+        - {x: -82, y: -69}
+        - {x: -40, y: -96}
+        - {x: 40, y: -96}
+        - {x: 81, y: -66}
+        - {x: 97, y: -29}
+        - {x: 97, y: 38}
+    - name: BubbleLoop3_00002
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 1639
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95, y: 59}
+        - {x: 37, y: 95}
+        - {x: -45, y: 95}
+        - {x: -96, y: 51}
+        - {x: -97, y: 40}
+        - {x: -97, y: -38}
+        - {x: -70, y: -77}
+        - {x: -35, y: -95}
+        - {x: 41, y: -95}
+        - {x: 83, y: -62}
+        - {x: 97, y: -39}
+        - {x: 97, y: 48}
+    - name: BubbleLoop3_00003
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 990
+        width: 194
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5026738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 65, y: 86}
+        - {x: 52, y: 93}
+        - {x: -35, y: 93}
+        - {x: -78, y: 83}
+        - {x: -96, y: 34}
+        - {x: -97, y: 33}
+        - {x: -97, y: -53}
+        - {x: -46, y: -94}
+        - {x: 41, y: -94}
+        - {x: 71, y: -74}
+        - {x: 97, y: -37}
+        - {x: 97, y: 38}
+    - name: BubbleLoop3_00004
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1215
+        width: 195
+        height: 182
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 63}
+        - {x: 51, y: 91}
+        - {x: -34, y: 91}
+        - {x: -73, y: 80}
+        - {x: -97, y: 36}
+        - {x: -97, y: -36}
+        - {x: -63, y: -86}
+        - {x: -41, y: -91}
+        - {x: 39, y: -91}
+        - {x: 70, y: -77}
+        - {x: 98, y: -43}
+        - {x: 98, y: 48}
+    - name: BubbleLoop3_00005
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 572
+        width: 195
+        height: 176
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 88}
+        - {x: -72, y: 88}
+        - {x: -97, y: 38}
+        - {x: -97, y: -36}
+        - {x: -60, y: -77}
+        - {x: -44, y: -88}
+        - {x: 41, y: -88}
+        - {x: 68, y: -84}
+        - {x: 98, y: -29}
+        - {x: 98, y: 32}
+        - {x: 65, y: 80}
+    - name: BubbleLoop3_00006
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 1875
+        width: 196
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 86}
+        - {x: -48, y: 86}
+        - {x: -79, y: 77}
+        - {x: -98, y: 38}
+        - {x: -98, y: -35}
+        - {x: -63, y: -74}
+        - {x: -38, y: -86}
+        - {x: 43, y: -86}
+        - {x: 71, y: -72}
+        - {x: 98, y: -31}
+        - {x: 98, y: 41}
+    - name: BubbleLoop3_00007
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1466
+        width: 196
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5030303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 79}
+        - {x: 47, y: 82}
+        - {x: -49, y: 82}
+        - {x: -98, y: 47}
+        - {x: -98, y: -33}
+        - {x: -89, y: -53}
+        - {x: -40, y: -83}
+        - {x: 34, y: -83}
+        - {x: 46, y: -81}
+        - {x: 87, y: -63}
+        - {x: 98, y: -31}
+        - {x: 98, y: 41}
+    - name: BubbleLoop3_00008
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 1043
+        width: 196
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5031447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 79}
+        - {x: -98, y: 48}
+        - {x: -98, y: -37}
+        - {x: -87, y: -60}
+        - {x: -48, y: -80}
+        - {x: 58, y: -80}
+        - {x: 98, y: -36}
+        - {x: 98, y: 43}
+        - {x: 43, y: 79}
+    - name: BubbleLoop3_00009
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 657
+        width: 198
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5, y: 0.503268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 76}
+        - {x: -45, y: 76}
+        - {x: -74, y: 64}
+        - {x: -99, y: 37}
+        - {x: -99, y: -26}
+        - {x: -92, y: -52}
+        - {x: -38, y: -77}
+        - {x: 57, y: -77}
+        - {x: 99, y: -45}
+        - {x: 99, y: 41}
+        - {x: 53, y: 74}
+    - name: BubbleLoop3_00010
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 485
+        width: 198
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5067568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 73}
+        - {x: -83, y: 66}
+        - {x: -99, y: 46}
+        - {x: -99, y: -48}
+        - {x: -57, y: -75}
+        - {x: 44, y: -75}
+        - {x: 84, y: -64}
+        - {x: 99, y: -50}
+        - {x: 99, y: 38}
+        - {x: 83, y: 73}
+    - name: BubbleLoop3_00011
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 82
+        width: 198
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5034965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -88, y: 71}
+        - {x: -99, y: 38}
+        - {x: -99, y: -46}
+        - {x: -87, y: -65}
+        - {x: -51, y: -72}
+        - {x: 71, y: -72}
+        - {x: 99, y: -46}
+        - {x: 99, y: 26}
+        - {x: 55, y: 71}
+    - name: BubbleLoop3_00012
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 292
+        width: 198
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50359714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 69}
+        - {x: -71, y: 69}
+        - {x: -91, y: 59}
+        - {x: -99, y: 36}
+        - {x: -99, y: -34}
+        - {x: -50, y: -70}
+        - {x: 52, y: -70}
+        - {x: 99, y: -47}
+        - {x: 99, y: 33}
+        - {x: 93, y: 55}
+    - name: BubbleLoop3_00013
+      rect:
+        serializedVersion: 2
+        x: 1492
+        y: 326
+        width: 199
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5025126, y: 0.5037037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -80, y: 67}
+        - {x: -100, y: 52}
+        - {x: -100, y: -28}
+        - {x: -93, y: -42}
+        - {x: -59, y: -68}
+        - {x: 70, y: -68}
+        - {x: 99, y: -53}
+        - {x: 99, y: 47}
+        - {x: 43, y: 67}
+    - name: BubbleLoop3_00014
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 10
+        width: 198
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5037594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 66}
+        - {x: -66, y: 66}
+        - {x: -99, y: 43}
+        - {x: -99, y: -23}
+        - {x: -73, y: -52}
+        - {x: -33, y: -67}
+        - {x: 92, y: -67}
+        - {x: 99, y: -45}
+        - {x: 99, y: 34}
+        - {x: 83, y: 57}
+    - name: BubbleLoop3_00015
+      rect:
+        serializedVersion: 2
+        x: 1718
+        y: 243
+        width: 198
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: 65}
+        - {x: -97, y: 61}
+        - {x: -99, y: 53}
+        - {x: -99, y: -37}
+        - {x: -88, y: -57}
+        - {x: -39, y: -67}
+        - {x: 91, y: -67}
+        - {x: 99, y: -60}
+        - {x: 99, y: 30}
+        - {x: 81, y: 65}
+    - name: BubbleLoop3_00016
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 399
+        width: 198
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5037594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -57, y: 66}
+        - {x: -99, y: 40}
+        - {x: -99, y: -24}
+        - {x: -54, y: -67}
+        - {x: 87, y: -67}
+        - {x: 99, y: -43}
+        - {x: 99, y: 43}
+        - {x: 53, y: 66}
+    - name: BubbleLoop3_00017
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 167
+        width: 198
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5037037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -82, y: 67}
+        - {x: -87, y: 63}
+        - {x: -99, y: 35}
+        - {x: -99, y: -34}
+        - {x: -60, y: -68}
+        - {x: 71, y: -68}
+        - {x: 99, y: -55}
+        - {x: 99, y: 55}
+        - {x: 48, y: 67}
+    - name: BubbleLoop3_00018
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 130
+        width: 197
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5025381, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: 19}
+        - {x: 94, y: 38}
+        - {x: 69, y: 69}
+        - {x: -99, y: 69}
+        - {x: -99, y: -62}
+        - {x: -68, y: -69}
+        - {x: 46, y: -69}
+        - {x: 47, y: -68}
+        - {x: 84, y: -51}
+        - {x: 98, y: -37}
+    - name: BubbleLoop3_00019
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 455
+        width: 197
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5025381, y: 0.4965035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -58, y: 72}
+        - {x: -99, y: 42}
+        - {x: -99, y: -28}
+        - {x: -58, y: -68}
+        - {x: -38, y: -71}
+        - {x: 54, y: -71}
+        - {x: 98, y: -42}
+        - {x: 98, y: 31}
+        - {x: 51, y: 72}
+    - name: BubbleLoop3_00020
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 249
+        width: 198
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 74}
+        - {x: -46, y: 74}
+        - {x: -99, y: 43}
+        - {x: -99, y: -48}
+        - {x: -45, y: -74}
+        - {x: 64, y: -74}
+        - {x: 99, y: -41}
+        - {x: 99, y: 23}
+        - {x: 82, y: 56}
+    - name: BubbleLoop3_00021
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 655
+        width: 197
+        height: 154
+      alignment: 9
+      pivot: {x: 0.49746192, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: 76}
+        - {x: 48, y: 77}
+        - {x: -61, y: 77}
+        - {x: -98, y: 43}
+        - {x: -98, y: -25}
+        - {x: -81, y: -57}
+        - {x: -48, y: -77}
+        - {x: 55, y: -77}
+        - {x: 84, y: -69}
+        - {x: 99, y: -49}
+        - {x: 99, y: 41}
+        - {x: 97, y: 50}
+    - name: BubbleLoop3_00022
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1268
+        width: 197
+        height: 160
+      alignment: 9
+      pivot: {x: 0.49746192, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 52, y: 80}
+        - {x: -65, y: 80}
+        - {x: -98, y: 31}
+        - {x: -98, y: -35}
+        - {x: -96, y: -47}
+        - {x: -45, y: -80}
+        - {x: 61, y: -80}
+        - {x: 99, y: -39}
+        - {x: 99, y: 26}
+        - {x: 73, y: 63}
+    - name: BubbleLoop3_00023
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1659
+        width: 196
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74, y: 66}
+        - {x: 31, y: 83}
+        - {x: -45, y: 83}
+        - {x: -49, y: 82}
+        - {x: -98, y: 43}
+        - {x: -98, y: -37}
+        - {x: -56, y: -83}
+        - {x: 61, y: -83}
+        - {x: 98, y: -47}
+        - {x: 98, y: 27}
+    - name: BubbleLoop3_00024
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 1875
+        width: 196
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: 49}
+        - {x: 65, y: 82}
+        - {x: 48, y: 86}
+        - {x: -46, y: 86}
+        - {x: -98, y: 47}
+        - {x: -98, y: -37}
+        - {x: -90, y: -55}
+        - {x: -39, y: -86}
+        - {x: 43, y: -86}
+        - {x: 48, y: -85}
+        - {x: 88, y: -47}
+        - {x: 98, y: -34}
+        - {x: 98, y: 40}
+    - name: BubbleLoop3_00025
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 358
+        width: 195
+        height: 178
+      alignment: 9
+      pivot: {x: 0.50256413, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79, y: 60}
+        - {x: 57, y: 89}
+        - {x: -72, y: 89}
+        - {x: -78, y: 88}
+        - {x: -98, y: 38}
+        - {x: -98, y: -37}
+        - {x: -59, y: -86}
+        - {x: -49, y: -89}
+        - {x: 35, y: -89}
+        - {x: 59, y: -85}
+        - {x: 97, y: -45}
+        - {x: 97, y: 32}
+    - name: BubbleLoop3_00026
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1431
+        width: 194
+        height: 183
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49726775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90, y: 66}
+        - {x: 48, y: 92}
+        - {x: -40, y: 92}
+        - {x: -70, y: 87}
+        - {x: -97, y: 42}
+        - {x: -97, y: -40}
+        - {x: -57, y: -81}
+        - {x: -33, y: -91}
+        - {x: 42, y: -91}
+        - {x: 89, y: -53}
+        - {x: 97, y: -40}
+        - {x: 97, y: 33}
+    - name: BubbleLoop3_00027
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 779
+        width: 194
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5026738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 85}
+        - {x: 32, y: 93}
+        - {x: -31, y: 93}
+        - {x: -64, y: 82}
+        - {x: -97, y: 37}
+        - {x: -97, y: -37}
+        - {x: -64, y: -94}
+        - {x: 41, y: -94}
+        - {x: 87, y: -57}
+        - {x: 97, y: -29}
+        - {x: 97, y: 39}
+    - name: BubbleLoop3_00028
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 1640
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95, y: 46}
+        - {x: 71, y: 76}
+        - {x: 44, y: 95}
+        - {x: -36, y: 95}
+        - {x: -64, y: 89}
+        - {x: -78, y: 68}
+        - {x: -97, y: 29}
+        - {x: -97, y: -38}
+        - {x: -63, y: -95}
+        - {x: 41, y: -95}
+        - {x: 88, y: -62}
+        - {x: 97, y: -40}
+        - {x: 97, y: 30}
+    - name: BubbleLoop3_00029
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1637
+        width: 194
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50259066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 71, y: 89}
+        - {x: 33, y: 96}
+        - {x: -42, y: 96}
+        - {x: -73, y: 79}
+        - {x: -97, y: 34}
+        - {x: -97, y: -39}
+        - {x: -95, y: -51}
+        - {x: -55, y: -86}
+        - {x: -30, y: -97}
+        - {x: 41, y: -97}
+        - {x: 91, y: -57}
+        - {x: 97, y: -32}
+        - {x: 97, y: 39}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

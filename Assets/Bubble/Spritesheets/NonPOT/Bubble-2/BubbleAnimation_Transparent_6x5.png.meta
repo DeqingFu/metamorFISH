@@ -1,0 +1,759 @@
+fileFormatVersion: 2
+guid: c2e4425525ad83042a4b2fd3eea7a5db
+timeCreated: 1461697777
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BubbleAnimation_Transparent_6x5_0
+    21300002: BubbleAnimation_Transparent_6x5_1
+    21300004: BubbleAnimation_Transparent_6x5_2
+    21300006: BubbleAnimation_Transparent_6x5_3
+    21300008: BubbleAnimation_Transparent_6x5_4
+    21300010: BubbleAnimation_Transparent_6x5_5
+    21300012: BubbleAnimation_Transparent_6x5_6
+    21300014: BubbleAnimation_Transparent_6x5_7
+    21300016: BubbleAnimation_Transparent_6x5_8
+    21300018: BubbleAnimation_Transparent_6x5_9
+    21300020: BubbleAnimation_Transparent_6x5_10
+    21300022: BubbleAnimation_Transparent_6x5_11
+    21300024: BubbleAnimation_Transparent_6x5_12
+    21300026: BubbleAnimation_Transparent_6x5_13
+    21300028: BubbleAnimation_Transparent_6x5_14
+    21300030: BubbleAnimation_Transparent_6x5_15
+    21300032: BubbleAnimation_Transparent_6x5_16
+    21300034: BubbleAnimation_Transparent_6x5_17
+    21300036: BubbleAnimation_Transparent_6x5_18
+    21300038: BubbleAnimation_Transparent_6x5_19
+    21300040: BubbleAnimation_Transparent_6x5_20
+    21300042: BubbleAnimation_Transparent_6x5_21
+    21300044: BubbleAnimation_Transparent_6x5_22
+    21300046: BubbleAnimation_Transparent_6x5_23
+    21300048: BubbleAnimation_Transparent_6x5_24
+    21300050: BubbleAnimation_Transparent_6x5_25
+    21300052: BubbleAnimation_Transparent_6x5_26
+    21300054: BubbleAnimation_Transparent_6x5_27
+    21300056: BubbleAnimation_Transparent_6x5_28
+    21300058: BubbleAnimation_Transparent_6x5_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BubbleAnimation_Transparent_6x5_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95, y: 63}
+        - {x: 34, y: 99}
+        - {x: -29, y: 99}
+        - {x: -72, y: 78}
+        - {x: -99, y: 31}
+        - {x: -99, y: -37}
+        - {x: -61, y: -93}
+        - {x: -41, y: -98}
+        - {x: 28, y: -98}
+        - {x: 42, y: -96}
+        - {x: 76, y: -75}
+        - {x: 98, y: -37}
+        - {x: 98, y: 48}
+    - name: BubbleAnimation_Transparent_6x5_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 73, y: 76}
+        - {x: 30, y: 98}
+        - {x: -41, y: 98}
+        - {x: -96, y: 57}
+        - {x: -99, y: 41}
+        - {x: -99, y: -53}
+        - {x: -42, y: -98}
+        - {x: 36, y: -98}
+        - {x: 48, y: -95}
+        - {x: 80, y: -67}
+        - {x: 98, y: -34}
+        - {x: 98, y: 33}
+    - name: BubbleAnimation_Transparent_6x5_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 81}
+        - {x: 26, y: 97}
+        - {x: -29, y: 97}
+        - {x: -68, y: 81}
+        - {x: -98, y: 41}
+        - {x: -98, y: -41}
+        - {x: -97, y: -61}
+        - {x: -38, y: -97}
+        - {x: 28, y: -97}
+        - {x: 34, y: -96}
+        - {x: 73, y: -74}
+        - {x: 99, y: -35}
+        - {x: 99, y: 40}
+    - name: BubbleAnimation_Transparent_6x5_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: 32}
+        - {x: 61, y: 80}
+        - {x: 41, y: 95}
+        - {x: -28, y: 95}
+        - {x: -77, y: 82}
+        - {x: -98, y: 43}
+        - {x: -98, y: -59}
+        - {x: -43, y: -95}
+        - {x: 35, y: -95}
+        - {x: 85, y: -62}
+        - {x: 98, y: -26}
+        - {x: 98, y: 26}
+    - name: BubbleAnimation_Transparent_6x5_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 92}
+        - {x: -35, y: 92}
+        - {x: -84, y: 64}
+        - {x: -97, y: 23}
+        - {x: -97, y: -24}
+        - {x: -96, y: -35}
+        - {x: -57, y: -85}
+        - {x: -29, y: -93}
+        - {x: 37, y: -93}
+        - {x: 67, y: -86}
+        - {x: 98, y: -34}
+        - {x: 98, y: 52}
+    - name: BubbleAnimation_Transparent_6x5_5
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 90}
+        - {x: -31, y: 90}
+        - {x: -75, y: 76}
+        - {x: -97, y: 28}
+        - {x: -97, y: -30}
+        - {x: -67, y: -83}
+        - {x: -38, y: -91}
+        - {x: 50, y: -91}
+        - {x: 91, y: -47}
+        - {x: 97, y: -24}
+        - {x: 97, y: 49}
+    - name: BubbleAnimation_Transparent_6x5_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 88}
+        - {x: -47, y: 88}
+        - {x: -73, y: 68}
+        - {x: -97, y: 28}
+        - {x: -97, y: -44}
+        - {x: -47, y: -89}
+        - {x: 43, y: -89}
+        - {x: 96, y: -45}
+        - {x: 96, y: 34}
+        - {x: 66, y: 82}
+    - name: BubbleAnimation_Transparent_6x5_7
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: 86}
+        - {x: -44, y: 86}
+        - {x: -69, y: 68}
+        - {x: -96, y: 30}
+        - {x: -96, y: -28}
+        - {x: -68, y: -79}
+        - {x: -20, y: -87}
+        - {x: 43, y: -87}
+        - {x: 72, y: -77}
+        - {x: 96, y: -39}
+        - {x: 96, y: 34}
+    - name: BubbleAnimation_Transparent_6x5_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 61}
+        - {x: 44, y: 85}
+        - {x: -96, y: 85}
+        - {x: -96, y: -77}
+        - {x: -94, y: -86}
+        - {x: 20, y: -86}
+        - {x: 55, y: -74}
+        - {x: 71, y: -63}
+        - {x: 96, y: -31}
+    - name: BubbleAnimation_Transparent_6x5_9
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: 84}
+        - {x: -83, y: 53}
+        - {x: -96, y: 19}
+        - {x: -96, y: -17}
+        - {x: -80, y: -54}
+        - {x: -47, y: -86}
+        - {x: 86, y: -86}
+        - {x: 96, y: -63}
+        - {x: 96, y: 65}
+        - {x: 53, y: 84}
+    - name: BubbleAnimation_Transparent_6x5_10
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: 84}
+        - {x: -83, y: 54}
+        - {x: -95, y: 22}
+        - {x: -95, y: -19}
+        - {x: -71, y: -72}
+        - {x: -36, y: -87}
+        - {x: 45, y: -87}
+        - {x: 96, y: -53}
+        - {x: 96, y: 43}
+        - {x: 95, y: 47}
+        - {x: 60, y: 77}
+        - {x: 29, y: 84}
+    - name: BubbleAnimation_Transparent_6x5_11
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: 49}
+        - {x: 33, y: 85}
+        - {x: -35, y: 85}
+        - {x: -83, y: 53}
+        - {x: -95, y: 37}
+        - {x: -95, y: -52}
+        - {x: -93, y: -70}
+        - {x: -26, y: -87}
+        - {x: 49, y: -87}
+        - {x: 58, y: -84}
+        - {x: 94, y: -35}
+    - name: BubbleAnimation_Transparent_6x5_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90, y: 34}
+        - {x: 57, y: 80}
+        - {x: 36, y: 86}
+        - {x: -53, y: 86}
+        - {x: -94, y: 52}
+        - {x: -94, y: -34}
+        - {x: -87, y: -63}
+        - {x: -46, y: -88}
+        - {x: 49, y: -88}
+        - {x: 89, y: -56}
+        - {x: 93, y: -36}
+        - {x: 93, y: 26}
+    - name: BubbleAnimation_Transparent_6x5_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 88}
+        - {x: -32, y: 88}
+        - {x: -90, y: 64}
+        - {x: -93, y: 46}
+        - {x: -93, y: -13}
+        - {x: -82, y: -49}
+        - {x: -70, y: -70}
+        - {x: -41, y: -88}
+        - {x: 38, y: -88}
+        - {x: 91, y: -58}
+        - {x: 91, y: 33}
+        - {x: 59, y: 81}
+    - name: BubbleAnimation_Transparent_6x5_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 85}
+        - {x: 24, y: 89}
+        - {x: -37, y: 89}
+        - {x: -66, y: 67}
+        - {x: -92, y: 44}
+        - {x: -92, y: -29}
+        - {x: -86, y: -62}
+        - {x: -39, y: -90}
+        - {x: 48, y: -90}
+        - {x: 90, y: -43}
+        - {x: 90, y: 34}
+        - {x: 89, y: 42}
+    - name: BubbleAnimation_Transparent_6x5_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 88}
+        - {x: 44, y: 90}
+        - {x: -49, y: 90}
+        - {x: -90, y: 51}
+        - {x: -90, y: -18}
+        - {x: -83, y: -60}
+        - {x: -43, y: -91}
+        - {x: 45, y: -91}
+        - {x: 77, y: -58}
+        - {x: 89, y: -27}
+        - {x: 89, y: 34}
+    - name: BubbleAnimation_Transparent_6x5_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 92}
+        - {x: -50, y: 92}
+        - {x: -89, y: 44}
+        - {x: -89, y: -44}
+        - {x: -79, y: -63}
+        - {x: -44, y: -93}
+        - {x: 58, y: -93}
+        - {x: 88, y: -39}
+        - {x: 88, y: 35}
+        - {x: 84, y: 57}
+    - name: BubbleAnimation_Transparent_6x5_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 93}
+        - {x: -69, y: 93}
+        - {x: -88, y: 62}
+        - {x: -88, y: -63}
+        - {x: -41, y: -93}
+        - {x: -37, y: -94}
+        - {x: 28, y: -94}
+        - {x: 82, y: -61}
+        - {x: 86, y: -39}
+        - {x: 86, y: 78}
+    - name: BubbleAnimation_Transparent_6x5_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 95}
+        - {x: -65, y: 95}
+        - {x: -75, y: 58}
+        - {x: -87, y: 24}
+        - {x: -87, y: -32}
+        - {x: -82, y: -65}
+        - {x: -29, y: -95}
+        - {x: 35, y: -95}
+        - {x: 45, y: -91}
+        - {x: 85, y: -39}
+        - {x: 85, y: 80}
+    - name: BubbleAnimation_Transparent_6x5_19
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 81, y: 63}
+        - {x: 47, y: 97}
+        - {x: -40, y: 97}
+        - {x: -86, y: 38}
+        - {x: -86, y: -42}
+        - {x: -50, y: -92}
+        - {x: -24, y: -96}
+        - {x: 39, y: -96}
+        - {x: 85, y: -55}
+        - {x: 85, y: 43}
+    - name: BubbleAnimation_Transparent_6x5_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 98}
+        - {x: -27, y: 98}
+        - {x: -56, y: 86}
+        - {x: -83, y: 41}
+        - {x: -86, y: 30}
+        - {x: -86, y: -40}
+        - {x: -57, y: -97}
+        - {x: 40, y: -97}
+        - {x: 70, y: -63}
+        - {x: 86, y: -36}
+        - {x: 86, y: 59}
+    - name: BubbleAnimation_Transparent_6x5_21
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74, y: 71}
+        - {x: 42, y: 99}
+        - {x: -45, y: 99}
+        - {x: -86, y: 64}
+        - {x: -86, y: -62}
+        - {x: -45, y: -99}
+        - {x: 38, y: -99}
+        - {x: 71, y: -67}
+        - {x: 86, y: -31}
+        - {x: 86, y: 28}
+    - name: BubbleAnimation_Transparent_6x5_22
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 84, y: 78}
+        - {x: 33, y: 99}
+        - {x: -36, y: 99}
+        - {x: -59, y: 78}
+        - {x: -86, y: 51}
+        - {x: -86, y: -58}
+        - {x: -85, y: -68}
+        - {x: -45, y: -100}
+        - {x: 45, y: -100}
+        - {x: 75, y: -62}
+        - {x: 87, y: -20}
+        - {x: 87, y: 60}
+    - name: BubbleAnimation_Transparent_6x5_23
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: 70}
+        - {x: 36, y: 96}
+        - {x: 10, y: 100}
+        - {x: -20, y: 100}
+        - {x: -51, y: 87}
+        - {x: -88, y: 47}
+        - {x: -88, y: -49}
+        - {x: -55, y: -100}
+        - {x: 43, y: -100}
+        - {x: 81, y: -59}
+        - {x: 88, y: -37}
+        - {x: 88, y: 24}
+    - name: BubbleAnimation_Transparent_6x5_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79, y: 72}
+        - {x: 37, y: 100}
+        - {x: -21, y: 100}
+        - {x: -57, y: 94}
+        - {x: -89, y: 47}
+        - {x: -89, y: -44}
+        - {x: -43, y: -98}
+        - {x: -27, y: -100}
+        - {x: 25, y: -100}
+        - {x: 42, y: -98}
+        - {x: 87, y: -44}
+        - {x: 89, y: -40}
+        - {x: 89, y: 27}
+    - name: BubbleAnimation_Transparent_6x5_25
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 100}
+        - {x: -29, y: 100}
+        - {x: -56, y: 88}
+        - {x: -92, y: 40}
+        - {x: -92, y: -40}
+        - {x: -51, y: -96}
+        - {x: -27, y: -99}
+        - {x: 43, y: -99}
+        - {x: 91, y: -44}
+        - {x: 91, y: 46}
+    - name: BubbleAnimation_Transparent_6x5_26
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: 69}
+        - {x: 64, y: 79}
+        - {x: 37, y: 100}
+        - {x: -22, y: 100}
+        - {x: -64, y: 92}
+        - {x: -94, y: 52}
+        - {x: -94, y: -63}
+        - {x: -50, y: -99}
+        - {x: 69, y: -99}
+        - {x: 93, y: -46}
+        - {x: 93, y: 29}
+        - {x: 92, y: 29}
+    - name: BubbleAnimation_Transparent_6x5_27
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 81}
+        - {x: 34, y: 99}
+        - {x: -31, y: 99}
+        - {x: -65, y: 87}
+        - {x: -95, y: 37}
+        - {x: -95, y: -41}
+        - {x: -50, y: -99}
+        - {x: 34, y: -99}
+        - {x: 76, y: -83}
+        - {x: 96, y: -29}
+        - {x: 96, y: 31}
+    - name: BubbleAnimation_Transparent_6x5_28
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 95, y: 38}
+        - {x: 79, y: 70}
+        - {x: 44, y: 99}
+        - {x: -33, y: 99}
+        - {x: -73, y: 91}
+        - {x: -97, y: 35}
+        - {x: -97, y: -32}
+        - {x: -91, y: -53}
+        - {x: -55, y: -89}
+        - {x: -28, y: -99}
+        - {x: 38, y: -99}
+        - {x: 86, y: -60}
+        - {x: 97, y: -33}
+        - {x: 97, y: 24}
+    - name: BubbleAnimation_Transparent_6x5_29
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: 75}
+        - {x: 28, y: 99}
+        - {x: -30, y: 99}
+        - {x: -63, y: 84}
+        - {x: -96, y: 53}
+        - {x: -98, y: 36}
+        - {x: -98, y: -49}
+        - {x: -93, y: -62}
+        - {x: -38, y: -99}
+        - {x: 33, y: -99}
+        - {x: 83, y: -73}
+        - {x: 99, y: -27}
+        - {x: 99, y: 37}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

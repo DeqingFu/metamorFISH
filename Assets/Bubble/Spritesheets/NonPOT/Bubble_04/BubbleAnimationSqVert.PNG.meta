@@ -1,0 +1,765 @@
+fileFormatVersion: 2
+guid: 01047059575c41a4fb0bc709bee5cf4f
+timeCreated: 1461587199
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: BubbleAnimationSqVert_0
+    21300002: BubbleAnimationSqVert_1
+    21300004: BubbleAnimationSqVert_2
+    21300006: BubbleAnimationSqVert_3
+    21300008: BubbleAnimationSqVert_4
+    21300010: BubbleAnimationSqVert_5
+    21300012: BubbleAnimationSqVert_6
+    21300014: BubbleAnimationSqVert_7
+    21300016: BubbleAnimationSqVert_8
+    21300018: BubbleAnimationSqVert_9
+    21300020: BubbleAnimationSqVert_10
+    21300022: BubbleAnimationSqVert_11
+    21300024: BubbleAnimationSqVert_12
+    21300026: BubbleAnimationSqVert_13
+    21300028: BubbleAnimationSqVert_14
+    21300030: BubbleAnimationSqVert_15
+    21300032: BubbleAnimationSqVert_16
+    21300034: BubbleAnimationSqVert_17
+    21300036: BubbleAnimationSqVert_18
+    21300038: BubbleAnimationSqVert_19
+    21300040: BubbleAnimationSqVert_20
+    21300042: BubbleAnimationSqVert_21
+    21300044: BubbleAnimationSqVert_22
+    21300046: BubbleAnimationSqVert_23
+    21300048: BubbleAnimationSqVert_24
+    21300050: BubbleAnimationSqVert_25
+    21300052: BubbleAnimationSqVert_26
+    21300054: BubbleAnimationSqVert_27
+    21300056: BubbleAnimationSqVert_28
+    21300058: BubbleAnimationSqVert_29
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: BubbleAnimationSqVert_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 99}
+        - {x: -44, y: 99}
+        - {x: -86, y: 63}
+        - {x: -99, y: 24}
+        - {x: -99, y: -25}
+        - {x: -87, y: -57}
+        - {x: -54, y: -88}
+        - {x: -28, y: -98}
+        - {x: 26, y: -98}
+        - {x: 58, y: -96}
+        - {x: 98, y: -41}
+        - {x: 98, y: 35}
+        - {x: 76, y: 88}
+    - name: BubbleAnimationSqVert_1
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: 57}
+        - {x: 47, y: 99}
+        - {x: -35, y: 99}
+        - {x: -87, y: 73}
+        - {x: -99, y: 29}
+        - {x: -99, y: -37}
+        - {x: -92, y: -54}
+        - {x: -44, y: -98}
+        - {x: -38, y: -99}
+        - {x: 30, y: -99}
+        - {x: 72, y: -81}
+        - {x: 96, y: -39}
+        - {x: 98, y: -28}
+    - name: BubbleAnimationSqVert_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 99}
+        - {x: -35, y: 99}
+        - {x: -64, y: 90}
+        - {x: -97, y: 37}
+        - {x: -97, y: -36}
+        - {x: -89, y: -64}
+        - {x: -35, y: -99}
+        - {x: 45, y: -99}
+        - {x: 98, y: -64}
+        - {x: 98, y: 38}
+        - {x: 92, y: 56}
+    - name: BubbleAnimationSqVert_3
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 44, y: 99}
+        - {x: -28, y: 99}
+        - {x: -68, y: 83}
+        - {x: -96, y: 39}
+        - {x: -96, y: -30}
+        - {x: -90, y: -55}
+        - {x: -70, y: -78}
+        - {x: -31, y: -99}
+        - {x: 30, y: -99}
+        - {x: 68, y: -84}
+        - {x: 97, y: -37}
+        - {x: 97, y: 50}
+    - name: BubbleAnimationSqVert_4
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1000
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 99}
+        - {x: -34, y: 99}
+        - {x: -80, y: 66}
+        - {x: -94, y: 27}
+        - {x: -94, y: -25}
+        - {x: -88, y: -47}
+        - {x: -61, y: -96}
+        - {x: -39, y: -99}
+        - {x: 46, y: -99}
+        - {x: 64, y: -80}
+        - {x: 95, y: -46}
+        - {x: 95, y: 55}
+    - name: BubbleAnimationSqVert_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 99}
+        - {x: -34, y: 99}
+        - {x: -77, y: 65}
+        - {x: -93, y: 38}
+        - {x: -93, y: -46}
+        - {x: -65, y: -92}
+        - {x: -30, y: -99}
+        - {x: 36, y: -99}
+        - {x: 83, y: -68}
+        - {x: 93, y: -30}
+        - {x: 93, y: 57}
+    - name: BubbleAnimationSqVert_6
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 89, y: 48}
+        - {x: 60, y: 98}
+        - {x: 45, y: 100}
+        - {x: -45, y: 100}
+        - {x: -78, y: 64}
+        - {x: -91, y: 39}
+        - {x: -91, y: -37}
+        - {x: -80, y: -83}
+        - {x: -26, y: -100}
+        - {x: 36, y: -100}
+        - {x: 81, y: -59}
+        - {x: 90, y: -40}
+        - {x: 90, y: 39}
+    - name: BubbleAnimationSqVert_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 100}
+        - {x: -36, y: 100}
+        - {x: -86, y: 51}
+        - {x: -88, y: 37}
+        - {x: -88, y: -35}
+        - {x: -69, y: -74}
+        - {x: -30, y: -100}
+        - {x: 28, y: -100}
+        - {x: 60, y: -81}
+        - {x: 88, y: -39}
+        - {x: 88, y: 60}
+    - name: BubbleAnimationSqVert_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 100}
+        - {x: -63, y: 100}
+        - {x: -86, y: 39}
+        - {x: -86, y: -47}
+        - {x: -67, y: -73}
+        - {x: -39, y: -100}
+        - {x: 26, y: -100}
+        - {x: 59, y: -93}
+        - {x: 86, y: -50}
+        - {x: 86, y: 53}
+        - {x: 49, y: 91}
+    - name: BubbleAnimationSqVert_9
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 800
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 93}
+        - {x: 25, y: 100}
+        - {x: -29, y: 100}
+        - {x: -51, y: 83}
+        - {x: -84, y: 44}
+        - {x: -84, y: -46}
+        - {x: -73, y: -84}
+        - {x: -44, y: -100}
+        - {x: 30, y: -100}
+        - {x: 55, y: -96}
+        - {x: 84, y: -38}
+        - {x: 84, y: 26}
+        - {x: 80, y: 49}
+    - name: BubbleAnimationSqVert_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 100}
+        - {x: -39, y: 100}
+        - {x: -58, y: 91}
+        - {x: -82, y: 32}
+        - {x: -82, y: -44}
+        - {x: -68, y: -77}
+        - {x: -39, y: -100}
+        - {x: 18, y: -100}
+        - {x: 42, y: -94}
+        - {x: 82, y: -54}
+        - {x: 82, y: 59}
+        - {x: 56, y: 94}
+    - name: BubbleAnimationSqVert_11
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 84}
+        - {x: 27, y: 100}
+        - {x: -31, y: 100}
+        - {x: -79, y: 45}
+        - {x: -80, y: 36}
+        - {x: -80, y: -61}
+        - {x: -77, y: -86}
+        - {x: -34, y: -100}
+        - {x: 40, y: -100}
+        - {x: 63, y: -82}
+        - {x: 79, y: -30}
+        - {x: 79, y: 53}
+    - name: BubbleAnimationSqVert_12
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 100}
+        - {x: -34, y: 100}
+        - {x: -64, y: 68}
+        - {x: -78, y: 41}
+        - {x: -78, y: -39}
+        - {x: -71, y: -78}
+        - {x: -36, y: -100}
+        - {x: 28, y: -100}
+        - {x: 37, y: -99}
+        - {x: 78, y: -45}
+        - {x: 78, y: 49}
+        - {x: 68, y: 93}
+    - name: BubbleAnimationSqVert_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 100}
+        - {x: -77, y: 37}
+        - {x: -77, y: -38}
+        - {x: -71, y: -72}
+        - {x: -50, y: -100}
+        - {x: 31, y: -100}
+        - {x: 64, y: -91}
+        - {x: 76, y: -46}
+        - {x: 76, y: 63}
+        - {x: 38, y: 100}
+    - name: BubbleAnimationSqVert_14
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 600
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 100}
+        - {x: -76, y: 48}
+        - {x: -76, y: -55}
+        - {x: -40, y: -100}
+        - {x: 31, y: -100}
+        - {x: 75, y: -56}
+        - {x: 75, y: 66}
+        - {x: 35, y: 100}
+    - name: BubbleAnimationSqVert_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 100}
+        - {x: -46, y: 100}
+        - {x: -75, y: 65}
+        - {x: -75, y: -62}
+        - {x: -72, y: -82}
+        - {x: -38, y: -100}
+        - {x: 36, y: -100}
+        - {x: 75, y: -46}
+        - {x: 75, y: 60}
+        - {x: 74, y: 63}
+    - name: BubbleAnimationSqVert_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 100}
+        - {x: -49, y: 100}
+        - {x: -66, y: 62}
+        - {x: -76, y: 40}
+        - {x: -76, y: -56}
+        - {x: -50, y: -100}
+        - {x: 39, y: -100}
+        - {x: 43, y: -98}
+        - {x: 75, y: -37}
+        - {x: 75, y: 47}
+        - {x: 72, y: 67}
+    - name: BubbleAnimationSqVert_17
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: 100}
+        - {x: -44, y: 100}
+        - {x: -72, y: 46}
+        - {x: -76, y: 31}
+        - {x: -76, y: -48}
+        - {x: -50, y: -100}
+        - {x: 26, y: -100}
+        - {x: 69, y: -65}
+        - {x: 76, y: -29}
+        - {x: 76, y: 55}
+    - name: BubbleAnimationSqVert_18
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 72, y: 98}
+        - {x: 62, y: 100}
+        - {x: -46, y: 100}
+        - {x: -65, y: 59}
+        - {x: -78, y: 28}
+        - {x: -78, y: -57}
+        - {x: -39, y: -100}
+        - {x: 43, y: -100}
+        - {x: 68, y: -94}
+        - {x: 77, y: -42}
+        - {x: 77, y: 75}
+    - name: BubbleAnimationSqVert_19
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 400
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 100}
+        - {x: -30, y: 100}
+        - {x: -37, y: 98}
+        - {x: -80, y: 49}
+        - {x: -80, y: -59}
+        - {x: -47, y: -100}
+        - {x: 36, y: -100}
+        - {x: 66, y: -63}
+        - {x: 79, y: -31}
+        - {x: 79, y: 65}
+    - name: BubbleAnimationSqVert_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79, y: 56}
+        - {x: 39, y: 100}
+        - {x: -52, y: 100}
+        - {x: -82, y: 41}
+        - {x: -82, y: -45}
+        - {x: -76, y: -56}
+        - {x: -48, y: -94}
+        - {x: -23, y: -100}
+        - {x: 35, y: -100}
+        - {x: 42, y: -98}
+        - {x: 81, y: -45}
+        - {x: 81, y: 50}
+    - name: BubbleAnimationSqVert_21
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: 66}
+        - {x: 57, y: 100}
+        - {x: -57, y: 100}
+        - {x: -83, y: 42}
+        - {x: -83, y: -50}
+        - {x: -50, y: -100}
+        - {x: 29, y: -100}
+        - {x: 73, y: -70}
+        - {x: 83, y: -40}
+        - {x: 83, y: 34}
+    - name: BubbleAnimationSqVert_22
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86, y: 63}
+        - {x: 37, y: 100}
+        - {x: -41, y: 100}
+        - {x: -86, y: 64}
+        - {x: -86, y: -45}
+        - {x: -55, y: -100}
+        - {x: 39, y: -100}
+        - {x: 71, y: -63}
+        - {x: 80, y: -42}
+        - {x: 86, y: -25}
+    - name: BubbleAnimationSqVert_23
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 69, y: 80}
+        - {x: 28, y: 100}
+        - {x: -42, y: 100}
+        - {x: -49, y: 98}
+        - {x: -88, y: 37}
+        - {x: -88, y: -42}
+        - {x: -84, y: -69}
+        - {x: -34, y: -100}
+        - {x: 35, y: -100}
+        - {x: 43, y: -96}
+        - {x: 83, y: -63}
+        - {x: 88, y: -37}
+        - {x: 88, y: 54}
+    - name: BubbleAnimationSqVert_24
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 200
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 90, y: 29}
+        - {x: 76, y: 68}
+        - {x: 32, y: 100}
+        - {x: -40, y: 100}
+        - {x: -90, y: 56}
+        - {x: -90, y: -40}
+        - {x: -52, y: -96}
+        - {x: -36, y: -100}
+        - {x: 29, y: -100}
+        - {x: 77, y: -73}
+        - {x: 86, y: -43}
+        - {x: 90, y: -20}
+    - name: BubbleAnimationSqVert_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 66, y: 86}
+        - {x: 29, y: 100}
+        - {x: -25, y: 100}
+        - {x: -62, y: 91}
+        - {x: -93, y: 37}
+        - {x: -93, y: -34}
+        - {x: -88, y: -56}
+        - {x: -53, y: -87}
+        - {x: -37, y: -99}
+        - {x: 29, y: -99}
+        - {x: 46, y: -97}
+        - {x: 86, y: -55}
+        - {x: 92, y: -32}
+        - {x: 92, y: 38}
+    - name: BubbleAnimationSqVert_26
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 68, y: 87}
+        - {x: 24, y: 99}
+        - {x: 12, y: 100}
+        - {x: -24, y: 100}
+        - {x: -70, y: 76}
+        - {x: -95, y: 39}
+        - {x: -95, y: -48}
+        - {x: -45, y: -98}
+        - {x: -30, y: -99}
+        - {x: 39, y: -99}
+        - {x: 70, y: -78}
+        - {x: 94, y: -32}
+        - {x: 94, y: 34}
+    - name: BubbleAnimationSqVert_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: 71}
+        - {x: 30, y: 99}
+        - {x: -24, y: 99}
+        - {x: -60, y: 82}
+        - {x: -90, y: 52}
+        - {x: -96, y: 33}
+        - {x: -96, y: -38}
+        - {x: -60, y: -99}
+        - {x: 33, y: -99}
+        - {x: 86, y: -69}
+        - {x: 96, y: -32}
+        - {x: 96, y: 27}
+    - name: BubbleAnimationSqVert_28
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 98, y: 28}
+        - {x: 76, y: 72}
+        - {x: 42, y: 98}
+        - {x: -26, y: 98}
+        - {x: -61, y: 91}
+        - {x: -86, y: 56}
+        - {x: -97, y: 32}
+        - {x: -97, y: -40}
+        - {x: -93, y: -69}
+        - {x: -39, y: -99}
+        - {x: 43, y: -99}
+        - {x: 92, y: -55}
+        - {x: 97, y: -36}
+        - {x: 98, y: -27}
+    - name: BubbleAnimationSqVert_29
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 200
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: 72}
+        - {x: 32, y: 98}
+        - {x: -37, y: 98}
+        - {x: -90, y: 72}
+        - {x: -98, y: 33}
+        - {x: -98, y: -50}
+        - {x: -53, y: -99}
+        - {x: 25, y: -99}
+        - {x: 44, y: -97}
+        - {x: 83, y: -63}
+        - {x: 99, y: -30}
+        - {x: 99, y: 30}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2123 @@
+fileFormatVersion: 2
+guid: 7ecc9387dbfa8d7479e44b3d3c3d6574
+timeCreated: 1461738287
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Bubble2_00000
+    21300002: Bubble2_00001
+    21300004: Bubble2_00002
+    21300006: Bubble2_00003
+    21300008: Bubble2_00004
+    21300010: Bubble2_00005
+    21300012: Bubble2_00006
+    21300014: Bubble2_00007
+    21300016: Bubble2_00008
+    21300018: Bubble2_00009
+    21300020: Bubble2_00010
+    21300022: Bubble2_00011
+    21300024: Bubble2_00012
+    21300026: Bubble2_00013
+    21300028: Bubble2_00014
+    21300030: Bubble2_00015
+    21300032: Bubble2_00016
+    21300034: Bubble2_00017
+    21300036: Bubble2_00018
+    21300038: Bubble2_00019
+    21300040: Bubble2_00020
+    21300042: Bubble2_00021
+    21300044: Bubble2_00022
+    21300046: Bubble2_00023
+    21300048: Bubble2_00024
+    21300050: Bubble2_00025
+    21300052: Bubble2_00026
+    21300054: Bubble2_00027
+    21300056: Bubble2_00028
+    21300058: Bubble2_00029
+    21300060: BubbleAnimation-sq-hor_00000
+    21300062: BubbleAnimation-sq-hor_00001
+    21300064: BubbleAnimation-sq-hor_00002
+    21300066: BubbleAnimation-sq-hor_00003
+    21300068: BubbleAnimation-sq-hor_00004
+    21300070: BubbleAnimation-sq-hor_00005
+    21300072: BubbleAnimation-sq-hor_00006
+    21300074: BubbleAnimation-sq-hor_00007
+    21300076: BubbleAnimation-sq-hor_00008
+    21300078: BubbleAnimation-sq-hor_00009
+    21300080: BubbleAnimation-sq-hor_00010
+    21300082: BubbleAnimation-sq-hor_00011
+    21300084: BubbleAnimation-sq-hor_00012
+    21300086: BubbleAnimation-sq-hor_00013
+    21300088: BubbleAnimation-sq-hor_00014
+    21300090: BubbleAnimation-sq-hor_00015
+    21300092: BubbleAnimation-sq-hor_00016
+    21300094: BubbleAnimation-sq-hor_00017
+    21300096: BubbleAnimation-sq-hor_00018
+    21300098: BubbleAnimation-sq-hor_00019
+    21300100: BubbleAnimation-sq-hor_00020
+    21300102: BubbleAnimation-sq-hor_00021
+    21300104: BubbleAnimation-sq-hor_00022
+    21300106: BubbleAnimation-sq-hor_00023
+    21300108: BubbleAnimation-sq-hor_00024
+    21300110: BubbleAnimation-sq-hor_00025
+    21300112: BubbleAnimation-sq-hor_00026
+    21300114: BubbleAnimation-sq-hor_00027
+    21300116: BubbleAnimation-sq-hor_00028
+    21300118: BubbleAnimation-sq-hor_00029
+    21300120: BubbleAnimation-sq-vert_00000
+    21300122: BubbleAnimation-sq-vert_00001
+    21300124: BubbleAnimation-sq-vert_00002
+    21300126: BubbleAnimation-sq-vert_00003
+    21300128: BubbleAnimation-sq-vert_00004
+    21300130: BubbleAnimation-sq-vert_00005
+    21300132: BubbleAnimation-sq-vert_00006
+    21300134: BubbleAnimation-sq-vert_00007
+    21300136: BubbleAnimation-sq-vert_00008
+    21300138: BubbleAnimation-sq-vert_00009
+    21300140: BubbleAnimation-sq-vert_00010
+    21300142: BubbleAnimation-sq-vert_00011
+    21300144: BubbleAnimation-sq-vert_00012
+    21300146: BubbleAnimation-sq-vert_00013
+    21300148: BubbleAnimation-sq-vert_00014
+    21300150: BubbleAnimation-sq-vert_00015
+    21300152: BubbleAnimation-sq-vert_00016
+    21300154: BubbleAnimation-sq-vert_00017
+    21300156: BubbleAnimation-sq-vert_00018
+    21300158: BubbleAnimation-sq-vert_00019
+    21300160: BubbleAnimation-sq-vert_00020
+    21300162: BubbleAnimation-sq-vert_00021
+    21300164: BubbleAnimation-sq-vert_00022
+    21300166: BubbleAnimation-sq-vert_00023
+    21300168: BubbleAnimation-sq-vert_00024
+    21300170: BubbleAnimation-sq-vert_00025
+    21300172: BubbleAnimation-sq-vert_00026
+    21300174: BubbleAnimation-sq-vert_00027
+    21300176: BubbleAnimation-sq-vert_00028
+    21300178: BubbleAnimation-sq-vert_00029
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Bubble2_00000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 557
+        width: 193
+        height: 193
+      alignment: 9
+      pivot: {x: 0.50259066, y: 0.4974093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: 78}
+        - {x: 31, y: 97}
+        - {x: -54, y: 97}
+        - {x: -97, y: 54}
+        - {x: -97, y: -40}
+        - {x: -61, y: -93}
+        - {x: -41, y: -96}
+        - {x: 44, y: -96}
+        - {x: 88, y: -62}
+        - {x: 96, y: -50}
+        - {x: 96, y: 48}
+    - name: Bubble2_00001
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1856
+        width: 193
+        height: 192
+      alignment: 9
+      pivot: {x: 0.50259066, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 62, y: 88}
+        - {x: 47, y: 96}
+        - {x: -37, y: 96}
+        - {x: -73, y: 89}
+        - {x: -97, y: 39}
+        - {x: -97, y: -38}
+        - {x: -61, y: -89}
+        - {x: -42, y: -96}
+        - {x: 35, y: -96}
+        - {x: 48, y: -95}
+        - {x: 83, y: -62}
+        - {x: 96, y: -29}
+        - {x: 96, y: 36}
+    - name: Bubble2_00002
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 1426
+        width: 193
+        height: 190
+      alignment: 9
+      pivot: {x: 0.4974093, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 95}
+        - {x: -32, y: 95}
+        - {x: -43, y: 91}
+        - {x: -87, y: 70}
+        - {x: -96, y: 35}
+        - {x: -96, y: -51}
+        - {x: -91, y: -60}
+        - {x: -39, y: -95}
+        - {x: 49, y: -95}
+        - {x: 97, y: -45}
+        - {x: 97, y: 39}
+        - {x: 67, y: 77}
+    - name: Bubble2_00003
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 1430
+        width: 192
+        height: 186
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 39}
+        - {x: 76, y: 73}
+        - {x: 43, y: 93}
+        - {x: -30, y: 93}
+        - {x: -60, y: 87}
+        - {x: -96, y: 63}
+        - {x: -96, y: -66}
+        - {x: -62, y: -89}
+        - {x: -38, y: -93}
+        - {x: 45, y: -93}
+        - {x: 71, y: -75}
+        - {x: 94, y: -50}
+        - {x: 96, y: -32}
+    - name: Bubble2_00004
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 785
+        width: 191
+        height: 181
+      alignment: 9
+      pivot: {x: 0.4973822, y: 0.50276244}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: 61}
+        - {x: 43, y: 90}
+        - {x: -42, y: 90}
+        - {x: -90, y: 54}
+        - {x: -95, y: 48}
+        - {x: -95, y: -49}
+        - {x: -90, y: -73}
+        - {x: -46, y: -90}
+        - {x: -35, y: -91}
+        - {x: 40, y: -91}
+        - {x: 65, y: -83}
+        - {x: 96, y: -38}
+        - {x: 96, y: 48}
+    - name: Bubble2_00005
+      rect:
+        serializedVersion: 2
+        x: 1085
+        y: 1872
+        width: 190
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: 88}
+        - {x: -44, y: 88}
+        - {x: -95, y: 52}
+        - {x: -95, y: -34}
+        - {x: -63, y: -78}
+        - {x: -48, y: -88}
+        - {x: 37, y: -88}
+        - {x: 70, y: -81}
+        - {x: 83, y: -50}
+        - {x: 95, y: -30}
+        - {x: 95, y: 38}
+    - name: Bubble2_00006
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1430
+        width: 189
+        height: 172
+      alignment: 9
+      pivot: {x: 0.5026455, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 86}
+        - {x: -47, y: 86}
+        - {x: -79, y: 80}
+        - {x: -95, y: 48}
+        - {x: -95, y: -31}
+        - {x: -91, y: -55}
+        - {x: -53, y: -85}
+        - {x: -48, y: -86}
+        - {x: 51, y: -86}
+        - {x: 94, y: -49}
+        - {x: 94, y: 37}
+        - {x: 58, y: 80}
+    - name: Bubble2_00007
+      rect:
+        serializedVersion: 2
+        x: 1044
+        y: 201
+        width: 188
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5029586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 34, y: 84}
+        - {x: -41, y: 84}
+        - {x: -90, y: 53}
+        - {x: -94, y: 35}
+        - {x: -94, y: -42}
+        - {x: -55, y: -85}
+        - {x: 45, y: -85}
+        - {x: 94, y: -67}
+        - {x: 94, y: 40}
+        - {x: 71, y: 67}
+    - name: Bubble2_00008
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 1218
+        width: 188
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5, y: 0.502994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 83}
+        - {x: -46, y: 83}
+        - {x: -63, y: 73}
+        - {x: -94, y: 44}
+        - {x: -94, y: -32}
+        - {x: -84, y: -68}
+        - {x: -47, y: -84}
+        - {x: 34, y: -84}
+        - {x: 64, y: -79}
+        - {x: 94, y: -33}
+        - {x: 94, y: 25}
+        - {x: 65, y: 77}
+    - name: Bubble2_00009
+      rect:
+        serializedVersion: 2
+        x: 1236
+        y: 1661
+        width: 188
+        height: 166
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5060241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 93, y: 43}
+        - {x: 57, y: 78}
+        - {x: 31, y: 82}
+        - {x: -48, y: 82}
+        - {x: -93, y: 57}
+        - {x: -94, y: 49}
+        - {x: -94, y: -47}
+        - {x: -55, y: -84}
+        - {x: 49, y: -84}
+        - {x: 53, y: -83}
+        - {x: 90, y: -45}
+        - {x: 94, y: -39}
+        - {x: 94, y: 37}
+    - name: Bubble2_00010
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1661
+        width: 187
+        height: 166
+      alignment: 9
+      pivot: {x: 0.4973262, y: 0.5060241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 37, y: 82}
+        - {x: -59, y: 82}
+        - {x: -93, y: 41}
+        - {x: -93, y: -33}
+        - {x: -90, y: -41}
+        - {x: -65, y: -65}
+        - {x: -39, y: -84}
+        - {x: 63, y: -84}
+        - {x: 94, y: -43}
+        - {x: 94, y: 39}
+        - {x: 92, y: 48}
+    - name: Bubble2_00011
+      rect:
+        serializedVersion: 2
+        x: 1484
+        y: 826
+        width: 185
+        height: 167
+      alignment: 9
+      pivot: {x: 0.5027027, y: 0.502994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 83}
+        - {x: -55, y: 83}
+        - {x: -79, y: 75}
+        - {x: -93, y: 36}
+        - {x: -93, y: -40}
+        - {x: -79, y: -56}
+        - {x: -46, y: -84}
+        - {x: 46, y: -84}
+        - {x: 72, y: -79}
+        - {x: 92, y: -37}
+        - {x: 92, y: 34}
+        - {x: 67, y: 79}
+    - name: Bubble2_00012
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1464
+        width: 183
+        height: 169
+      alignment: 9
+      pivot: {x: 0.5027322, y: 0.5029586}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 84}
+        - {x: -90, y: 58}
+        - {x: -92, y: 48}
+        - {x: -92, y: -39}
+        - {x: -76, y: -53}
+        - {x: -43, y: -85}
+        - {x: 58, y: -85}
+        - {x: 91, y: -36}
+        - {x: 91, y: 37}
+        - {x: 55, y: 84}
+    - name: Bubble2_00013
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1656
+        width: 181
+        height: 171
+      alignment: 9
+      pivot: {x: 0.50276244, y: 0.50292397}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 85}
+        - {x: -42, y: 85}
+        - {x: -91, y: 59}
+        - {x: -91, y: -47}
+        - {x: -44, y: -86}
+        - {x: 49, y: -86}
+        - {x: 90, y: -45}
+        - {x: 90, y: 34}
+        - {x: 54, y: 79}
+    - name: Bubble2_00014
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1464
+        width: 179
+        height: 174
+      alignment: 9
+      pivot: {x: 0.5027933, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 87}
+        - {x: -74, y: 87}
+        - {x: -90, y: 37}
+        - {x: -90, y: -54}
+        - {x: -37, y: -87}
+        - {x: 48, y: -87}
+        - {x: 89, y: -43}
+        - {x: 89, y: 34}
+        - {x: 71, y: 69}
+    - name: Bubble2_00015
+      rect:
+        serializedVersion: 2
+        x: 1457
+        y: 1461
+        width: 176
+        height: 177
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50282484}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -54, y: 88}
+        - {x: -88, y: 39}
+        - {x: -88, y: -45}
+        - {x: -47, y: -85}
+        - {x: -34, y: -89}
+        - {x: 56, y: -89}
+        - {x: 88, y: -39}
+        - {x: 88, y: 51}
+        - {x: 39, y: 88}
+    - name: Bubble2_00016
+      rect:
+        serializedVersion: 2
+        x: 1444
+        y: 623
+        width: 174
+        height: 180
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50555557}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 89}
+        - {x: -41, y: 89}
+        - {x: -78, y: 55}
+        - {x: -86, y: 35}
+        - {x: -87, y: 28}
+        - {x: -87, y: -59}
+        - {x: -34, y: -91}
+        - {x: 36, y: -91}
+        - {x: 87, y: -60}
+        - {x: 87, y: 66}
+    - name: Bubble2_00017
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 826
+        width: 171
+        height: 183
+      alignment: 9
+      pivot: {x: 0.50292397, y: 0.5027322}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79, y: 60}
+        - {x: 34, y: 91}
+        - {x: -47, y: 91}
+        - {x: -86, y: 40}
+        - {x: -86, y: -58}
+        - {x: -35, y: -92}
+        - {x: 32, y: -92}
+        - {x: 44, y: -89}
+        - {x: 85, y: -53}
+        - {x: 85, y: 48}
+    - name: Bubble2_00018
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1009
+        width: 169
+        height: 186
+      alignment: 9
+      pivot: {x: 0.5029586, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 93}
+        - {x: -39, y: 93}
+        - {x: -82, y: 71}
+        - {x: -85, y: 55}
+        - {x: -85, y: -63}
+        - {x: -48, y: -87}
+        - {x: -41, y: -93}
+        - {x: 50, y: -93}
+        - {x: 84, y: -41}
+        - {x: 84, y: 38}
+        - {x: 79, y: 61}
+    - name: Bubble2_00019
+      rect:
+        serializedVersion: 2
+        x: 1074
+        y: 615
+        width: 169
+        height: 188
+      alignment: 9
+      pivot: {x: 0.5029586, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 94}
+        - {x: -56, y: 94}
+        - {x: -85, y: 49}
+        - {x: -85, y: -40}
+        - {x: -80, y: -65}
+        - {x: -42, y: -94}
+        - {x: 39, y: -94}
+        - {x: 72, y: -61}
+        - {x: 84, y: -30}
+        - {x: 84, y: 46}
+    - name: Bubble2_00020
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1658
+        width: 168
+        height: 191
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4973822}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 76, y: 67}
+        - {x: 55, y: 96}
+        - {x: -51, y: 96}
+        - {x: -81, y: 58}
+        - {x: -84, y: 42}
+        - {x: -84, y: -44}
+        - {x: -50, y: -95}
+        - {x: 33, y: -95}
+        - {x: 70, y: -69}
+        - {x: 84, y: -41}
+        - {x: 84, y: 33}
+    - name: Bubble2_00021
+      rect:
+        serializedVersion: 2
+        x: 1867
+        y: 1855
+        width: 168
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50259066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 96}
+        - {x: -37, y: 96}
+        - {x: -72, y: 68}
+        - {x: -84, y: 27}
+        - {x: -84, y: -45}
+        - {x: -52, y: -97}
+        - {x: 45, y: -97}
+        - {x: 77, y: -69}
+        - {x: 84, y: -32}
+        - {x: 84, y: 53}
+    - name: Bubble2_00022
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 367
+        width: 169
+        height: 195
+      alignment: 9
+      pivot: {x: 0.49704143, y: 0.50256413}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 78, y: 73}
+        - {x: 46, y: 97}
+        - {x: -32, y: 97}
+        - {x: -84, y: 67}
+        - {x: -84, y: -43}
+        - {x: -54, y: -98}
+        - {x: 37, y: -98}
+        - {x: 45, y: -96}
+        - {x: 85, y: -44}
+        - {x: 85, y: 44}
+    - name: Bubble2_00023
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 992
+        width: 172
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 98}
+        - {x: -39, y: 98}
+        - {x: -86, y: 56}
+        - {x: -86, y: -31}
+        - {x: -76, y: -61}
+        - {x: -38, y: -98}
+        - {x: 32, y: -98}
+        - {x: 74, y: -65}
+        - {x: 86, y: -34}
+        - {x: 86, y: 55}
+    - name: Bubble2_00024
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 367
+        width: 174
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 41, y: 98}
+        - {x: -32, y: 98}
+        - {x: -57, y: 94}
+        - {x: -86, y: 42}
+        - {x: -87, y: 41}
+        - {x: -87, y: -54}
+        - {x: -85, y: -74}
+        - {x: -39, y: -98}
+        - {x: 50, y: -98}
+        - {x: 87, y: -49}
+        - {x: 87, y: 37}
+        - {x: 63, y: 82}
+    - name: Bubble2_00025
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1208
+        width: 179
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5027933, y: 0.4974359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77, y: 63}
+        - {x: 38, y: 97}
+        - {x: 32, y: 98}
+        - {x: -29, y: 98}
+        - {x: -66, y: 77}
+        - {x: -90, y: 48}
+        - {x: -90, y: -68}
+        - {x: -47, y: -97}
+        - {x: 33, y: -97}
+        - {x: 50, y: -92}
+        - {x: 88, y: -57}
+        - {x: 89, y: -50}
+        - {x: 89, y: 43}
+    - name: Bubble2_00026
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 353
+        width: 183
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5027322, y: 0.4974359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 91, y: 83}
+        - {x: 43, y: 98}
+        - {x: -43, y: 98}
+        - {x: -59, y: 84}
+        - {x: -92, y: 42}
+        - {x: -92, y: -42}
+        - {x: -55, y: -92}
+        - {x: -42, y: -97}
+        - {x: 31, y: -97}
+        - {x: 46, y: -95}
+        - {x: 86, y: -73}
+        - {x: 91, y: -48}
+    - name: Bubble2_00027
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 991
+        width: 187
+        height: 194
+      alignment: 9
+      pivot: {x: 0.4973262, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 90}
+        - {x: 34, y: 97}
+        - {x: -29, y: 97}
+        - {x: -61, y: 80}
+        - {x: -92, y: 52}
+        - {x: -93, y: 47}
+        - {x: -93, y: -49}
+        - {x: -51, y: -97}
+        - {x: 43, y: -97}
+        - {x: 81, y: -66}
+        - {x: 94, y: -28}
+        - {x: 94, y: 41}
+    - name: Bubble2_00028
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1639
+        width: 190
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 97}
+        - {x: -41, y: 97}
+        - {x: -92, y: 60}
+        - {x: -95, y: 43}
+        - {x: -95, y: -44}
+        - {x: -63, y: -83}
+        - {x: -33, y: -97}
+        - {x: 50, y: -97}
+        - {x: 95, y: -53}
+        - {x: 95, y: 36}
+        - {x: 67, y: 80}
+    - name: Bubble2_00029
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1421
+        width: 193
+        height: 194
+      alignment: 9
+      pivot: {x: 0.4974093, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 91}
+        - {x: 32, y: 97}
+        - {x: -47, y: 97}
+        - {x: -81, y: 67}
+        - {x: -96, y: 41}
+        - {x: -96, y: -40}
+        - {x: -94, y: -55}
+        - {x: -57, y: -86}
+        - {x: -31, y: -97}
+        - {x: 51, y: -97}
+        - {x: 97, y: -47}
+        - {x: 97, y: 32}
+        - {x: 75, y: 68}
+    - name: BubbleAnimation-sq-hor_00000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 773
+        width: 193
+        height: 193
+      alignment: 9
+      pivot: {x: 0.50259066, y: 0.4974093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: 78}
+        - {x: 31, y: 97}
+        - {x: -54, y: 97}
+        - {x: -97, y: 54}
+        - {x: -97, y: -40}
+        - {x: -61, y: -93}
+        - {x: -41, y: -96}
+        - {x: 44, y: -96}
+        - {x: 88, y: -62}
+        - {x: 96, y: -50}
+        - {x: 96, y: 48}
+    - name: BubbleAnimation-sq-hor_00001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1638
+        width: 194
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5, y: 0.4974093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77, y: 72}
+        - {x: 42, y: 97}
+        - {x: -31, y: 97}
+        - {x: -66, y: 89}
+        - {x: -97, y: 39}
+        - {x: -97, y: -32}
+        - {x: -83, y: -58}
+        - {x: -48, y: -94}
+        - {x: -34, y: -96}
+        - {x: 45, y: -96}
+        - {x: 72, y: -81}
+        - {x: 97, y: -39}
+        - {x: 97, y: 35}
+    - name: BubbleAnimation-sq-hor_00002
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1642
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77, y: 72}
+        - {x: 30, y: 95}
+        - {x: -39, y: 95}
+        - {x: -84, y: 63}
+        - {x: -97, y: 45}
+        - {x: -97, y: -55}
+        - {x: -96, y: -60}
+        - {x: -56, y: -93}
+        - {x: -42, y: -95}
+        - {x: 44, y: -95}
+        - {x: 68, y: -79}
+        - {x: 97, y: -38}
+        - {x: 97, y: 36}
+    - name: BubbleAnimation-sq-hor_00003
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 781
+        width: 194
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5026738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 77, y: 71}
+        - {x: 48, y: 93}
+        - {x: -34, y: 93}
+        - {x: -76, y: 82}
+        - {x: -95, y: 46}
+        - {x: -97, y: 35}
+        - {x: -97, y: -41}
+        - {x: -52, y: -94}
+        - {x: 41, y: -94}
+        - {x: 81, y: -64}
+        - {x: 97, y: -30}
+        - {x: 97, y: 35}
+    - name: BubbleAnimation-sq-hor_00004
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1002
+        width: 195
+        height: 182
+      alignment: 9
+      pivot: {x: 0.4974359, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 50, y: 91}
+        - {x: -38, y: 91}
+        - {x: -75, y: 83}
+        - {x: -95, y: 37}
+        - {x: -97, y: 33}
+        - {x: -97, y: -54}
+        - {x: -42, y: -91}
+        - {x: 42, y: -91}
+        - {x: 98, y: -52}
+        - {x: 98, y: 36}
+        - {x: 61, y: 85}
+    - name: BubbleAnimation-sq-hor_00005
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 586
+        width: 194
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: 86}
+        - {x: 42, y: 88}
+        - {x: -47, y: 88}
+        - {x: -64, y: 75}
+        - {x: -97, y: 37}
+        - {x: -97, y: -34}
+        - {x: -63, y: -82}
+        - {x: -49, y: -88}
+        - {x: 39, y: -88}
+        - {x: 68, y: -83}
+        - {x: 97, y: -37}
+        - {x: 97, y: 41}
+    - name: BubbleAnimation-sq-hor_00006
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 1876
+        width: 196
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 84}
+        - {x: 33, y: 86}
+        - {x: -42, y: 86}
+        - {x: -66, y: 74}
+        - {x: -98, y: 39}
+        - {x: -98, y: -45}
+        - {x: -53, y: -86}
+        - {x: 49, y: -86}
+        - {x: 61, y: -83}
+        - {x: 98, y: -35}
+        - {x: 98, y: 35}
+        - {x: 81, y: 55}
+    - name: BubbleAnimation-sq-hor_00007
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 615
+        width: 196
+        height: 165
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5030303}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 52}
+        - {x: 51, y: 80}
+        - {x: 30, y: 82}
+        - {x: -43, y: 82}
+        - {x: -96, y: 53}
+        - {x: -98, y: 42}
+        - {x: -98, y: -33}
+        - {x: -66, y: -77}
+        - {x: -33, y: -83}
+        - {x: 48, y: -83}
+        - {x: 80, y: -62}
+        - {x: 98, y: -38}
+        - {x: 98, y: 42}
+    - name: BubbleAnimation-sq-hor_00008
+      rect:
+        serializedVersion: 2
+        x: 1211
+        y: 421
+        width: 196
+        height: 159
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5031447}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74, y: 65}
+        - {x: 48, y: 79}
+        - {x: -44, y: 79}
+        - {x: -81, y: 72}
+        - {x: -98, y: 50}
+        - {x: -98, y: -32}
+        - {x: -78, y: -80}
+        - {x: 47, y: -80}
+        - {x: 94, y: -61}
+        - {x: 98, y: -37}
+        - {x: 98, y: 31}
+    - name: BubbleAnimation-sq-hor_00009
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1032
+        width: 198
+        height: 153
+      alignment: 9
+      pivot: {x: 0.5, y: 0.503268}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -43, y: 76}
+        - {x: -89, y: 49}
+        - {x: -99, y: 36}
+        - {x: -99, y: -27}
+        - {x: -93, y: -53}
+        - {x: -58, y: -77}
+        - {x: 67, y: -77}
+        - {x: 99, y: -40}
+        - {x: 99, y: 40}
+        - {x: 50, y: 76}
+    - name: BubbleAnimation-sq-hor_00010
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 826
+        width: 198
+        height: 148
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5067568}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -53, y: 73}
+        - {x: -65, y: 68}
+        - {x: -99, y: 45}
+        - {x: -99, y: -49}
+        - {x: -42, y: -75}
+        - {x: 66, y: -75}
+        - {x: 99, y: -40}
+        - {x: 99, y: 40}
+        - {x: 60, y: 73}
+    - name: BubbleAnimation-sq-hor_00011
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 997
+        width: 198
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5034965}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: 71}
+        - {x: -88, y: 71}
+        - {x: -99, y: 44}
+        - {x: -99, y: -36}
+        - {x: -46, y: -72}
+        - {x: 55, y: -72}
+        - {x: 99, y: -54}
+        - {x: 99, y: 49}
+        - {x: 46, y: 70}
+    - name: BubbleAnimation-sq-hor_00012
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 37
+        width: 197
+        height: 139
+      alignment: 9
+      pivot: {x: 0.5025381, y: 0.50359714}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 54, y: 65}
+        - {x: 24, y: 69}
+        - {x: -59, y: 69}
+        - {x: -92, y: 60}
+        - {x: -99, y: 35}
+        - {x: -99, y: -41}
+        - {x: -89, y: -63}
+        - {x: -54, y: -70}
+        - {x: 79, y: -70}
+        - {x: 98, y: -42}
+        - {x: 98, y: 22}
+        - {x: 95, y: 32}
+    - name: BubbleAnimation-sq-hor_00013
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 199
+        width: 198
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5050505, y: 0.5037037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79, y: 67}
+        - {x: -79, y: 67}
+        - {x: -100, y: 55}
+        - {x: -100, y: -34}
+        - {x: -94, y: -42}
+        - {x: -40, y: -68}
+        - {x: 34, y: -68}
+        - {x: 69, y: -65}
+        - {x: 98, y: -45}
+        - {x: 98, y: 25}
+    - name: BubbleAnimation-sq-hor_00014
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 447
+        width: 198
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5037594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -66, y: 66}
+        - {x: -99, y: 41}
+        - {x: -99, y: -23}
+        - {x: -58, y: -67}
+        - {x: 73, y: -67}
+        - {x: 99, y: -53}
+        - {x: 99, y: 31}
+        - {x: 73, y: 66}
+    - name: BubbleAnimation-sq-hor_00015
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 292
+        width: 198
+        height: 132
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50757575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -99, y: 49}
+        - {x: -99, y: -30}
+        - {x: -74, y: -67}
+        - {x: 59, y: -67}
+        - {x: 99, y: -54}
+        - {x: 99, y: 46}
+        - {x: 97, y: 53}
+        - {x: 58, y: 65}
+        - {x: -50, y: 65}
+        - {x: -81, y: 59}
+    - name: BubbleAnimation-sq-hor_00016
+      rect:
+        serializedVersion: 2
+        x: 1485
+        y: 43
+        width: 198
+        height: 133
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5037594}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 66}
+        - {x: -67, y: 66}
+        - {x: -95, y: 61}
+        - {x: -99, y: 52}
+        - {x: -99, y: -18}
+        - {x: -90, y: -46}
+        - {x: -72, y: -67}
+        - {x: 99, y: -67}
+        - {x: 99, y: 22}
+        - {x: 83, y: 43}
+    - name: BubbleAnimation-sq-hor_00017
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 357
+        width: 198
+        height: 135
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5037037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: 67}
+        - {x: -99, y: 39}
+        - {x: -99, y: -18}
+        - {x: -88, y: -48}
+        - {x: -56, y: -68}
+        - {x: 62, y: -68}
+        - {x: 99, y: -56}
+        - {x: 99, y: 37}
+        - {x: 53, y: 67}
+    - name: BubbleAnimation-sq-hor_00018
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 38
+        width: 197
+        height: 138
+      alignment: 9
+      pivot: {x: 0.5025381, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 63, y: 69}
+        - {x: -75, y: 69}
+        - {x: -98, y: 41}
+        - {x: -99, y: 34}
+        - {x: -99, y: -22}
+        - {x: -97, y: -29}
+        - {x: -57, y: -69}
+        - {x: 81, y: -69}
+        - {x: 98, y: -45}
+        - {x: 98, y: 57}
+        - {x: 90, y: 65}
+    - name: BubbleAnimation-sq-hor_00019
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 6
+        width: 197
+        height: 143
+      alignment: 9
+      pivot: {x: 0.5025381, y: 0.4965035}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -63, y: 72}
+        - {x: -99, y: 40}
+        - {x: -99, y: -26}
+        - {x: -61, y: -71}
+        - {x: 64, y: -71}
+        - {x: 98, y: -41}
+        - {x: 98, y: 30}
+        - {x: 50, y: 72}
+    - name: BubbleAnimation-sq-hor_00020
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1067
+        width: 198
+        height: 148
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -71, y: 74}
+        - {x: -99, y: 43}
+        - {x: -99, y: -48}
+        - {x: -38, y: -74}
+        - {x: 54, y: -74}
+        - {x: 99, y: -40}
+        - {x: 99, y: 31}
+        - {x: 60, y: 74}
+    - name: BubbleAnimation-sq-hor_00021
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 1208
+        width: 197
+        height: 154
+      alignment: 9
+      pivot: {x: 0.49746192, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -46, y: 77}
+        - {x: -98, y: 48}
+        - {x: -98, y: -24}
+        - {x: -94, y: -44}
+        - {x: -46, y: -77}
+        - {x: 59, y: -77}
+        - {x: 99, y: -40}
+        - {x: 99, y: 37}
+        - {x: 50, y: 77}
+    - name: BubbleAnimation-sq-hor_00022
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 826
+        width: 197
+        height: 160
+      alignment: 9
+      pivot: {x: 0.49746192, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 53, y: 80}
+        - {x: -61, y: 80}
+        - {x: -98, y: 36}
+        - {x: -98, y: -36}
+        - {x: -58, y: -80}
+        - {x: 49, y: -80}
+        - {x: 72, y: -63}
+        - {x: 99, y: -47}
+        - {x: 99, y: 51}
+    - name: BubbleAnimation-sq-hor_00023
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 803
+        width: 196
+        height: 166
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 49, y: 83}
+        - {x: -45, y: 83}
+        - {x: -94, y: 58}
+        - {x: -98, y: 37}
+        - {x: -98, y: -34}
+        - {x: -58, y: -83}
+        - {x: 49, y: -83}
+        - {x: 75, y: -65}
+        - {x: 98, y: -29}
+        - {x: 98, y: 38}
+    - name: BubbleAnimation-sq-hor_00024
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 172
+        width: 196
+        height: 172
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 94, y: 60}
+        - {x: 39, y: 86}
+        - {x: -38, y: 86}
+        - {x: -68, y: 81}
+        - {x: -98, y: 36}
+        - {x: -98, y: -38}
+        - {x: -65, y: -86}
+        - {x: 53, y: -86}
+        - {x: 67, y: -72}
+        - {x: 98, y: -45}
+        - {x: 98, y: 34}
+    - name: BubbleAnimation-sq-hor_00025
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 367
+        width: 195
+        height: 177
+      alignment: 9
+      pivot: {x: 0.50256413, y: 0.49717513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 82, y: 62}
+        - {x: 34, y: 89}
+        - {x: -30, y: 89}
+        - {x: -70, y: 78}
+        - {x: -98, y: 32}
+        - {x: -98, y: -33}
+        - {x: -61, y: -88}
+        - {x: 43, y: -88}
+        - {x: 93, y: -59}
+        - {x: 97, y: -37}
+        - {x: 97, y: 37}
+    - name: BubbleAnimation-sq-hor_00026
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 148
+        width: 194
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 91}
+        - {x: -34, y: 91}
+        - {x: -58, y: 88}
+        - {x: -94, y: 46}
+        - {x: -97, y: 39}
+        - {x: -97, y: -36}
+        - {x: -94, y: -59}
+        - {x: -44, y: -91}
+        - {x: 57, y: -91}
+        - {x: 97, y: -41}
+        - {x: 97, y: 35}
+        - {x: 70, y: 73}
+    - name: BubbleAnimation-sq-hor_00027
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 571
+        width: 194
+        height: 187
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5026738}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 97, y: 34}
+        - {x: 71, y: 85}
+        - {x: 38, y: 93}
+        - {x: -62, y: 93}
+        - {x: -97, y: 78}
+        - {x: -97, y: -54}
+        - {x: -80, y: -59}
+        - {x: -53, y: -84}
+        - {x: -44, y: -92}
+        - {x: -34, y: -94}
+        - {x: 36, y: -94}
+        - {x: 73, y: -78}
+        - {x: 96, y: -43}
+        - {x: 97, y: -38}
+    - name: BubbleAnimation-sq-hor_00028
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1858
+        width: 194
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 35, y: 95}
+        - {x: -30, y: 95}
+        - {x: -64, y: 82}
+        - {x: -97, y: 41}
+        - {x: -97, y: -31}
+        - {x: -83, y: -61}
+        - {x: -41, y: -95}
+        - {x: 53, y: -95}
+        - {x: 97, y: -48}
+        - {x: 97, y: 32}
+        - {x: 82, y: 68}
+    - name: BubbleAnimation-sq-hor_00029
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1855
+        width: 194
+        height: 193
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50259066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 52}
+        - {x: 47, y: 96}
+        - {x: -33, y: 96}
+        - {x: -75, y: 71}
+        - {x: -97, y: 48}
+        - {x: -97, y: -52}
+        - {x: -63, y: -92}
+        - {x: -34, y: -97}
+        - {x: 46, y: -97}
+        - {x: 69, y: -82}
+        - {x: 97, y: -36}
+        - {x: 97, y: 43}
+    - name: BubbleAnimation-sq-vert_00000
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1205
+        width: 193
+        height: 193
+      alignment: 9
+      pivot: {x: 0.50259066, y: 0.4974093}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 67, y: 78}
+        - {x: 31, y: 97}
+        - {x: -54, y: 97}
+        - {x: -97, y: 54}
+        - {x: -97, y: -40}
+        - {x: -61, y: -93}
+        - {x: -41, y: -96}
+        - {x: 44, y: -96}
+        - {x: 88, y: -62}
+        - {x: 96, y: -50}
+        - {x: 96, y: 48}
+    - name: BubbleAnimation-sq-vert_00001
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1854
+        width: 193
+        height: 194
+      alignment: 9
+      pivot: {x: 0.50259066, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 96, y: 43}
+        - {x: 91, y: 64}
+        - {x: 31, y: 97}
+        - {x: -33, y: 97}
+        - {x: -61, y: 89}
+        - {x: -97, y: 41}
+        - {x: -97, y: -40}
+        - {x: -63, y: -94}
+        - {x: -36, y: -97}
+        - {x: 32, y: -97}
+        - {x: 43, y: -93}
+        - {x: 81, y: -67}
+        - {x: 96, y: -45}
+    - name: BubbleAnimation-sq-vert_00002
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 340
+        width: 191
+        height: 194
+      alignment: 9
+      pivot: {x: 0.4973822, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 32, y: 97}
+        - {x: -36, y: 97}
+        - {x: -67, y: 81}
+        - {x: -95, y: 37}
+        - {x: -95, y: -33}
+        - {x: -87, y: -63}
+        - {x: -46, y: -97}
+        - {x: 43, y: -97}
+        - {x: 71, y: -90}
+        - {x: 96, y: -40}
+        - {x: 96, y: 38}
+        - {x: 62, y: 84}
+    - name: BubbleAnimation-sq-vert_00003
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 1425
+        width: 189
+        height: 194
+      alignment: 9
+      pivot: {x: 0.4973545, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 85}
+        - {x: 41, y: 97}
+        - {x: -52, y: 97}
+        - {x: -94, y: 47}
+        - {x: -94, y: -44}
+        - {x: -91, y: -57}
+        - {x: -56, y: -86}
+        - {x: -29, y: -97}
+        - {x: 36, y: -97}
+        - {x: 68, y: -83}
+        - {x: 95, y: -37}
+        - {x: 95, y: 38}
+    - name: BubbleAnimation-sq-vert_00004
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1639
+        width: 185
+        height: 194
+      alignment: 9
+      pivot: {x: 0.4972973, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 75, y: 72}
+        - {x: 38, y: 97}
+        - {x: -33, y: 97}
+        - {x: -45, y: 95}
+        - {x: -77, y: 64}
+        - {x: -92, y: 29}
+        - {x: -92, y: -41}
+        - {x: -55, y: -89}
+        - {x: -37, y: -97}
+        - {x: 46, y: -97}
+        - {x: 88, y: -70}
+        - {x: 93, y: -43}
+        - {x: 93, y: 48}
+    - name: BubbleAnimation-sq-vert_00005
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 567
+        width: 182
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: 67}
+        - {x: 36, y: 97}
+        - {x: -33, y: 97}
+        - {x: -72, y: 70}
+        - {x: -91, y: 44}
+        - {x: -91, y: -52}
+        - {x: -79, y: -86}
+        - {x: -43, y: -97}
+        - {x: 55, y: -97}
+        - {x: 86, y: -70}
+        - {x: 91, y: -40}
+        - {x: 91, y: 49}
+    - name: BubbleAnimation-sq-vert_00006
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 989
+        width: 177
+        height: 196
+      alignment: 9
+      pivot: {x: 0.50282484, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 86, y: 56}
+        - {x: 55, y: 91}
+        - {x: 25, y: 98}
+        - {x: -40, y: 98}
+        - {x: -88, y: 59}
+        - {x: -89, y: 55}
+        - {x: -89, y: -42}
+        - {x: -57, y: -88}
+        - {x: -29, y: -98}
+        - {x: 32, y: -98}
+        - {x: 73, y: -67}
+        - {x: 88, y: -41}
+        - {x: 88, y: 37}
+    - name: BubbleAnimation-sq-vert_00007
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 1211
+        width: 172
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 98}
+        - {x: -32, y: 98}
+        - {x: -72, y: 75}
+        - {x: -86, y: 50}
+        - {x: -86, y: -39}
+        - {x: -75, y: -79}
+        - {x: -53, y: -98}
+        - {x: 45, y: -98}
+        - {x: 70, y: -93}
+        - {x: 86, y: -41}
+        - {x: 86, y: 59}
+    - name: BubbleAnimation-sq-vert_00008
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 1851
+        width: 168
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 83, y: 62}
+        - {x: 52, y: 95}
+        - {x: 32, y: 98}
+        - {x: -39, y: 98}
+        - {x: -70, y: 78}
+        - {x: -84, y: 33}
+        - {x: -84, y: -54}
+        - {x: -60, y: -94}
+        - {x: -34, y: -99}
+        - {x: 33, y: -99}
+        - {x: 67, y: -75}
+        - {x: 84, y: -46}
+        - {x: 84, y: 54}
+    - name: BubbleAnimation-sq-vert_00009
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1850
+        width: 164
+        height: 198
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5050505}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 48, y: 93}
+        - {x: 44, y: 98}
+        - {x: -32, y: 98}
+        - {x: -82, y: 77}
+        - {x: -82, y: -57}
+        - {x: -40, y: -100}
+        - {x: 26, y: -100}
+        - {x: 80, y: -65}
+        - {x: 82, y: -53}
+        - {x: 82, y: 45}
+    - name: BubbleAnimation-sq-vert_00010
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1436
+        width: 160
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 60, y: 78}
+        - {x: 52, y: 99}
+        - {x: -42, y: 99}
+        - {x: -80, y: 42}
+        - {x: -80, y: -68}
+        - {x: -46, y: -100}
+        - {x: 21, y: -100}
+        - {x: 59, y: -87}
+        - {x: 78, y: -43}
+        - {x: 80, y: -28}
+        - {x: 80, y: 42}
+    - name: BubbleAnimation-sq-vert_00011
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 199
+        width: 155
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5032258, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 47, y: 99}
+        - {x: -34, y: 99}
+        - {x: -68, y: 74}
+        - {x: -78, y: 31}
+        - {x: -78, y: -47}
+        - {x: -64, y: -76}
+        - {x: -32, y: -100}
+        - {x: 48, y: -100}
+        - {x: 77, y: -43}
+        - {x: 77, y: 35}
+        - {x: 73, y: 56}
+    - name: BubbleAnimation-sq-vert_00012
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 1239
+        width: 152
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025126}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: 99}
+        - {x: -42, y: 99}
+        - {x: -76, y: 41}
+        - {x: -76, y: -39}
+        - {x: -64, y: -73}
+        - {x: -31, y: -100}
+        - {x: 25, y: -100}
+        - {x: 64, y: -85}
+        - {x: 76, y: -36}
+        - {x: 76, y: 54}
+    - name: BubbleAnimation-sq-vert_00013
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1627
+        width: 149
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5033557, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 100}
+        - {x: -70, y: 75}
+        - {x: -75, y: 43}
+        - {x: -75, y: -65}
+        - {x: -45, y: -96}
+        - {x: -42, y: -100}
+        - {x: 35, y: -100}
+        - {x: 67, y: -92}
+        - {x: 74, y: -38}
+        - {x: 74, y: 50}
+        - {x: 51, y: 100}
+    - name: BubbleAnimation-sq-vert_00014
+      rect:
+        serializedVersion: 2
+        x: 1812
+        y: 1181
+        width: 147
+        height: 200
+      alignment: 9
+      pivot: {x: 0.50340134, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 100}
+        - {x: -74, y: 47}
+        - {x: -74, y: -58}
+        - {x: -56, y: -100}
+        - {x: 39, y: -100}
+        - {x: 73, y: -48}
+        - {x: 73, y: 67}
+        - {x: 38, y: 100}
+    - name: BubbleAnimation-sq-vert_00015
+      rect:
+        serializedVersion: 2
+        x: 1811
+        y: 603
+        width: 146
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 100}
+        - {x: -35, y: 96}
+        - {x: -73, y: 46}
+        - {x: -73, y: -51}
+        - {x: -44, y: -100}
+        - {x: 38, y: -100}
+        - {x: 73, y: -57}
+        - {x: 73, y: 70}
+        - {x: 35, y: 100}
+    - name: BubbleAnimation-sq-vert_00016
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 603
+        width: 147
+        height: 200
+      alignment: 9
+      pivot: {x: 0.50340134, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 100}
+        - {x: -62, y: 77}
+        - {x: -74, y: 31}
+        - {x: -74, y: -78}
+        - {x: -35, y: -100}
+        - {x: 39, y: -100}
+        - {x: 73, y: -69}
+        - {x: 73, y: 70}
+        - {x: 57, y: 100}
+    - name: BubbleAnimation-sq-vert_00017
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 1404
+        width: 148
+        height: 200
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -50, y: 100}
+        - {x: -68, y: 73}
+        - {x: -74, y: 43}
+        - {x: -74, y: -61}
+        - {x: -69, y: -72}
+        - {x: -33, y: -100}
+        - {x: 32, y: -100}
+        - {x: 74, y: -58}
+        - {x: 74, y: 100}
+    - name: BubbleAnimation-sq-vert_00018
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 1238
+        width: 151
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5033113, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 46, y: 98}
+        - {x: 41, y: 100}
+        - {x: -18, y: 100}
+        - {x: -39, y: 94}
+        - {x: -74, y: 42}
+        - {x: -76, y: 35}
+        - {x: -76, y: -53}
+        - {x: -51, y: -100}
+        - {x: 36, y: -100}
+        - {x: 68, y: -67}
+        - {x: 75, y: -40}
+        - {x: 75, y: 58}
+    - name: BubbleAnimation-sq-vert_00019
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 603
+        width: 155
+        height: 200
+      alignment: 9
+      pivot: {x: 0.5032258, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 74, y: 71}
+        - {x: 39, y: 100}
+        - {x: -28, y: 100}
+        - {x: -61, y: 87}
+        - {x: -78, y: 36}
+        - {x: -78, y: -54}
+        - {x: -42, y: -100}
+        - {x: 31, y: -100}
+        - {x: 75, y: -46}
+        - {x: 77, y: -32}
+        - {x: 77, y: 58}
+    - name: BubbleAnimation-sq-vert_00020
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 393
+        width: 159
+        height: 199
+      alignment: 9
+      pivot: {x: 0.5031447, y: 0.49748743}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 100}
+        - {x: -68, y: 65}
+        - {x: -80, y: 45}
+        - {x: -80, y: -58}
+        - {x: -60, y: -99}
+        - {x: 52, y: -99}
+        - {x: 79, y: -53}
+        - {x: 79, y: 60}
+        - {x: 39, y: 100}
+    - name: BubbleAnimation-sq-vert_00021
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 1625
+        width: 162
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -45, y: 99}
+        - {x: -81, y: 45}
+        - {x: -81, y: -56}
+        - {x: -46, y: -90}
+        - {x: -25, y: -99}
+        - {x: 41, y: -99}
+        - {x: 81, y: -47}
+        - {x: 81, y: 49}
+        - {x: 49, y: 99}
+    - name: BubbleAnimation-sq-vert_00022
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 1850
+        width: 168
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 51, y: 99}
+        - {x: -46, y: 99}
+        - {x: -54, y: 97}
+        - {x: -84, y: 54}
+        - {x: -84, y: -54}
+        - {x: -67, y: -77}
+        - {x: -30, y: -99}
+        - {x: 27, y: -99}
+        - {x: 81, y: -69}
+        - {x: 84, y: -58}
+        - {x: 84, y: 50}
+    - name: BubbleAnimation-sq-vert_00023
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 147
+        width: 172
+        height: 197
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5025381}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 55, y: 98}
+        - {x: -56, y: 98}
+        - {x: -84, y: 57}
+        - {x: -86, y: 39}
+        - {x: -86, y: -46}
+        - {x: -84, y: -51}
+        - {x: -46, y: -93}
+        - {x: -38, y: -99}
+        - {x: 65, y: -99}
+        - {x: 71, y: -98}
+        - {x: 86, y: -41}
+        - {x: 86, y: 47}
+        - {x: 76, y: 62}
+    - name: BubbleAnimation-sq-vert_00024
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 148
+        width: 176
+        height: 196
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 85, y: 61}
+        - {x: 56, y: 98}
+        - {x: -52, y: 98}
+        - {x: -88, y: 51}
+        - {x: -88, y: -51}
+        - {x: -52, y: -90}
+        - {x: -26, y: -98}
+        - {x: 33, y: -98}
+        - {x: 54, y: -92}
+        - {x: 88, y: -41}
+        - {x: 88, y: 44}
+    - name: BubbleAnimation-sq-vert_00025
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 784
+        width: 181
+        height: 195
+      alignment: 9
+      pivot: {x: 0.50276244, y: 0.4974359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 45, y: 98}
+        - {x: -39, y: 98}
+        - {x: -63, y: 93}
+        - {x: -81, y: 54}
+        - {x: -91, y: 30}
+        - {x: -91, y: -39}
+        - {x: -60, y: -97}
+        - {x: 40, y: -97}
+        - {x: 68, y: -76}
+        - {x: 90, y: -39}
+        - {x: 90, y: 50}
+    - name: BubbleAnimation-sq-vert_00026
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1207
+        width: 185
+        height: 195
+      alignment: 9
+      pivot: {x: 0.5027027, y: 0.4974359}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 80, y: 63}
+        - {x: 35, y: 98}
+        - {x: -44, y: 98}
+        - {x: -93, y: 54}
+        - {x: -93, y: -44}
+        - {x: -54, y: -97}
+        - {x: 37, y: -97}
+        - {x: 86, y: -62}
+        - {x: 92, y: -34}
+        - {x: 92, y: 31}
+    - name: BubbleAnimation-sq-vert_00027
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1208
+        width: 188
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 40, y: 97}
+        - {x: -33, y: 97}
+        - {x: -57, y: 84}
+        - {x: -94, y: 44}
+        - {x: -94, y: -37}
+        - {x: -73, y: -73}
+        - {x: -58, y: -97}
+        - {x: 49, y: -97}
+        - {x: 94, y: -47}
+        - {x: 94, y: 41}
+        - {x: 61, y: 90}
+    - name: BubbleAnimation-sq-vert_00028
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 124
+        width: 191
+        height: 193
+      alignment: 9
+      pivot: {x: 0.4973822, y: 0.50259066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 59, y: 86}
+        - {x: 44, y: 96}
+        - {x: -65, y: 96}
+        - {x: -95, y: 38}
+        - {x: -95, y: -42}
+        - {x: -58, y: -91}
+        - {x: -34, y: -97}
+        - {x: 40, y: -97}
+        - {x: 81, y: -67}
+        - {x: 96, y: -36}
+        - {x: 96, y: 42}
+    - name: BubbleAnimation-sq-vert_00029
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 989
+        width: 193
+        height: 193
+      alignment: 9
+      pivot: {x: 0.4974093, y: 0.50259066}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 79, y: 71}
+        - {x: 36, y: 96}
+        - {x: -36, y: 96}
+        - {x: -77, y: 71}
+        - {x: -96, y: 42}
+        - {x: -96, y: -40}
+        - {x: -91, y: -63}
+        - {x: -61, y: -92}
+        - {x: -36, y: -97}
+        - {x: 39, y: -97}
+        - {x: 72, y: -79}
+        - {x: 97, y: -37}
+        - {x: 97, y: 28}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
