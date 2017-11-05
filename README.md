@@ -7,7 +7,7 @@ The software uses Unity3D and Muse API.
 If you have a mac, you can execute the standalone application in the repo.  
 You need to type in the magical command in Shell:   
 ```bash 
-muse-io --device Muse-32CD --osc osc.udp://localhost:5000
+muse-io --device #Your-Muse-ID --osc osc.udp://localhost:5000
 ```
 # How to Play
 Blink your eyes to move up  
